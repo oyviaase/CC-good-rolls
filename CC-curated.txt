@@ -937,13 +937,6 @@ dimwishlist:item=1366917989&perks=1844523823,3796465595,951095735,1275731761
 dimwishlist:item=1366917989&perks=1441682018,3796465595,951095735,1275731761
 dimwishlist:item=1366917989&perks=1478423395,3796465595,951095735,1275731761
 
-title:u/pandapaxxy's Season of the Chosen Iron Banner and Trials of Osiris Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw7lt/iron_banner_and_trials_reprised_breakdown/
-
-// Multimach CCX
-//notes:pandapaxxy (PvE / Controller): "This will be fine if you have nothing else, but it’s certainly not the best smg right now." Recommended MW: Reload.|tags:pve,controller
-
-
 // Multimach CCX
 //notes:pandapaxxy (PvP / Controller): "For PvP I'm interested in iron reach, but the heavy drop in stability puts me off. I know aggressive frame smgs have low stability by default but those were an exception, not the trend to be like. Kill clip will be my top choice when paired with quickdraw or dynamic sway reduction to hit your shots." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3717177717&perks=663495155,3177308360,706527188,1015611457
@@ -970,19 +963,6 @@ dimwishlist:item=3717177717&perks=663495154,3177308360,2450788523,11551321
 dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,11551321
 dimwishlist:item=3717177717&perks=663495154,106909392,2450788523,11551321
 
-
-// The Time-Worn Spire
-//notes:pandapaxxy (PvE / Controller): "Especially because this is the only non-sunset rapid-fire frame pulse rifle. Feeding Frenzy is your best bet in PvE activities though in lower-levelled content subsistence is uninteresting shout. Especially for the “bullet hose” of pulse rifles." Recommended MW: Reload.|tags:pve,controller
-
-
-// The Time-Worn Spire
-//notes:pandapaxxy (PvP / Controller): "For PvP there’s a lot less interesting combos. Quickdraw will bring up that average (for it’s class) handling to near max. Iron grip will also give you that much needed stability alongside the bonuses from your masterwork and ricochet rounds. This will be a consistent rapid-fire pulse over a lethal one." Recommended MW: Range.|tags:pvp,controller
-
-
-// The Messenger
-//notes:pandapaxxy (PvE / Controller): "Rapid hit just fits so nicely on pulse rifles that it almost feels like they were made for one another. Desperado also got updated to not need outlaw to function." Recommended MW: Reload.|tags:pve,controller
-
-
 // The Messenger
 //notes:pandapaxxy (PvP / Controller): "Desperado and rapid hit truly are a match made in heaven. Headseeker is my personal choice as I prefer a neutral weapon to anything else, but desperado on more than Redrix is a great move. [...] This is gonna be a dominant high-impact pulse for as long as it remains not sunset." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3658188704&perks=3661387068,1885400500,247725512,3047969693
@@ -1005,10 +985,6 @@ dimwishlist:item=3658188704&perks=3661387068,1885400500,588594999,1015611457
 dimwishlist:item=3658188704&perks=3661387068,1561002382,588594999,1015611457
 
 // The Messenger (Adept)
-//notes:pandapaxxy (PvE / Controller): "Rapid hit just fits so nicely on pulse rifles that it almost feels like they were made for one another. Desperado also got updated to not need outlaw to function." Recommended MW: Reload.|tags:pve,controller
-
-
-// The Messenger (Adept)
 //notes:pandapaxxy (PvP / Controller): "Desperado and rapid hit truly are a match made in heaven. Headseeker is my personal choice as I prefer a neutral weapon to anything else, but desperado on more than Redrix is a great move. [...] This is gonna be a dominant high-impact pulse for as long as it remains not sunset." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1173780905&perks=3661387068,1885400500,247725512,3047969693
 dimwishlist:item=1173780905&perks=3661387068,1561002382,247725512,3047969693
@@ -1029,11 +1005,6 @@ dimwishlist:item=1173780905&perks=3661387068,1561002382,2450788523,1015611457
 dimwishlist:item=1173780905&perks=3661387068,1885400500,588594999,1015611457
 dimwishlist:item=1173780905&perks=3661387068,1561002382,588594999,1015611457
 
-
-// Igneous Hammer
-//notes:pandapaxxy (PvE / Controller): "Arguably a better Bottom Dollar, Igneous Hammer is an upgrade in every way. All the base stats are better across the board and the perks are arguably better. For PvE I really like snappy weapons, so fluted barrel will always be my top choice. Appended mag brings up that okay mag size and rapid hit will make the kick and reload a lot more manageable. One for all is my preferred PvE perk but rampage is tried and true, so you couldn’t go wrong with that either." Recommended MW: Reload.|tags:pve,controller
-
-
 // Igneous Hammer
 //notes:pandapaxxy (PvP / Controller): "PvP is where Igneous Hammer really finds a better niche. Bottom Dollar has a larger perk pool so you’re at mercy of what drops (if it does at all). Igneous Hammer only has 4 perks and most of them are okay for PvP. getting this to drop will be one thing, but having a good roll on it will be easier. Moving target is just a consistency buff that should make this feel amazing. Rampage is definitely an option for general PvP." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=2351180975&perks=1482024992,1885400500,247725512,588594999
@@ -1049,11 +1020,6 @@ dimwishlist:item=2351180975&perks=1482024992,1561002382,706527188,957782887
 dimwishlist:item=2351180975&perks=1482024992,1885400500,2450788523,957782887
 dimwishlist:item=2351180975&perks=1482024992,1561002382,2450788523,957782887
 
-
-// Igneous Hammer (Adept)
-//notes:pandapaxxy (PvE / Controller): "Arguably a better Bottom Dollar, Igneous Hammer is an upgrade in every way. All the base stats are better across the board and the perks are arguably better. For PvE I really like snappy weapons, so fluted barrel will always be my top choice. Appended mag brings up that okay mag size and rapid hit will make the kick and reload a lot more manageable. One for all is my preferred PvE perk but rampage is tried and true, so you couldn’t go wrong with that either." Recommended MW: Reload.|tags:pve,controller
-
-
 // Igneous Hammer (Adept)
 //notes:pandapaxxy (PvP / Controller): "PvP is where Igneous Hammer really finds a better niche. Bottom Dollar has a larger perk pool so you’re at mercy of what drops (if it does at all). Igneous Hammer only has 4 perks and most of them are okay for PvP. getting this to drop will be one thing, but having a good roll on it will be easier. Moving target is just a consistency buff that should make this feel amazing. Rampage is definitely an option for general PvP." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,588594999
@@ -1068,56 +1034,6 @@ dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,957782887
 dimwishlist:item=2527666306&perks=1482024992,1561002382,706527188,957782887
 dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,957782887
 dimwishlist:item=2527666306&perks=1482024992,1561002382,2450788523,957782887
-
-// Sola’s Scar
-//notes:pandapaxxy (PvE / Controller): "For PvE vorpal is the only thing you really want to pay attention to. Chain reaction is great but will work better the lower the level of content you’re in." Recommended MW: Impact.|tags:pve,controller
-
-
-// Sola’s Scar
-//notes:pandapaxxy (PvP / Controller): "Tireless blade to get more kills by generating ammo every other kill. Assassin’s blade for faster movement speed (like killing wind) or en garde for slightly better damage if you’re up against a super. Or really want to use the ranged attack." Recommended MW: Impact.|tags:pvp,controller
-
-
-// Sola’s Scar (Adept)
-//notes:pandapaxxy (PvE / Controller): "For PvE vorpal is the only thing you really want to pay attention to. Chain reaction is great but will work better the lower the level of content you’re in." Recommended MW: Impact.|tags:pve,controller
-
-
-// Sola’s Scar (Adept)
-//notes:pandapaxxy (PvP / Controller): "Tireless blade to get more kills by generating ammo every other kill. Assassin’s blade for faster movement speed (like killing wind) or en garde for slightly better damage if you’re up against a super. Or really want to use the ranged attack." Recommended MW: Impact.|tags:pvp,controller
-
-
-// Exile's Curse
-//notes:pandapaxxy (PvE / Controller): "Kickstart looks like a really cool perk. Almost like a better backup plan but you have to invest in the perk to make it work. It would work perfectly with slideshot. Unfortunately I think there’s better perks. Namely high-impact reserves and quickdraw. No under pressure does stink a bit, but having a faster ready and stow speed will help swapping and charging off a shot feel less clunky." Recommended MW: Reload.|tags:pve,controller
-
-
-// Exile's Curse
-//notes:pandapaxxy (PvP / Controller): "Kickstart looks like a really cool perk. Almost like a better backup plan but you have to invest in the perk to make it work. It would work perfectly with slideshot. Unfortunately I think there’s better perks. Namely high-impact reserves and quickdraw. No under pressure does stink a bit, but having a faster ready and stow speed will help swapping and charging off a shot feel less clunky." Recommended MW: Range.|tags:pvp,controller
-
-
-// Exile's Curse (Adept)
-//notes:pandapaxxy (PvE / Controller): "Kickstart looks like a really cool perk. Almost like a better backup plan but you have to invest in the perk to make it work. It would work perfectly with slideshot. Unfortunately I think there’s better perks. Namely high-impact reserves and quickdraw. No under pressure does stink a bit, but having a faster ready and stow speed will help swapping and charging off a shot feel less clunky." Recommended MW: Reload.|tags:pve,controller
-
-
-// Exile's Curse (Adept)
-//notes:pandapaxxy (PvP / Controller): "Kickstart looks like a really cool perk. Almost like a better backup plan but you have to invest in the perk to make it work. It would work perfectly with slideshot. Unfortunately I think there’s better perks. Namely high-impact reserves and quickdraw. No under pressure does stink a bit, but having a faster ready and stow speed will help swapping and charging off a shot feel less clunky." Recommended MW: Range.|tags:pvp,controller
-
-
-// Tomorrow’s Answer
-//notes:pandapaxxy (PvE / Controller): "It’s a good thing we have other rockets to use this season. Tomorrow’s answer doesn’t bring anything the others don’t already have and nothing new is added. If you are attached to the design of this rocket launcher, use it. But it’s neither the best nor the worst option. It just kind of exists." Recommended MW: Reload.|tags:pve,controller
-
-
-// Tomorrow’s Answer
-//notes:pandapaxxy (PvP / Controller): "It’s a good thing we have other rockets to use this season. Tomorrow’s answer doesn’t bring anything the others don’t already have and nothing new is added. If you are attached to the design of this rocket launcher, use it. But it’s neither the best nor the worst option. It just kind of exists." Recommended MW: Blast Radius.|tags:pvp,controller
-
-// Tomorrow’s Answer (Adept)
-//notes:pandapaxxy (PvE / Controller): "It’s a good thing we have other rockets to use this season. Tomorrow’s answer doesn’t bring anything the others don’t already have and nothing new is added. If you are attached to the design of this rocket launcher, use it. But it’s neither the best nor the worst option. It just kind of exists." Recommended MW: Reload.|tags:pve,controller
-
-
-// Tomorrow’s Answer (Adept)
-//notes:pandapaxxy (PvP / Controller): "It’s a good thing we have other rockets to use this season. Tomorrow’s answer doesn’t bring anything the others don’t already have and nothing new is added. If you are attached to the design of this rocket launcher, use it. But it’s neither the best nor the worst option. It just kind of exists." Recommended MW: Blast Radius.|tags:pvp,controller
-
-
-title:u/pandapaxxy's Season of the Chosen Nightfall Ordeal, Ritual, Season Pass Breakdown, M+KB
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw0v7/nightfall_ordeal_ritual_season_pass_breakdown_mnk/
 
 // The Palindrome
 //notes:pandapaxxy (PvE / M+KB): "Overflow is easily one of my favorite perks in all of Destiny 2. Simply walk over special or heavy ammo and not only is your gun reloaded but its mag is doubled? Heck yes. Pair that with the new(ish) one for all perk that gives you better damage from clearing adds? A match made in heaven. If you want more direct damage increases then rampage is your go-to. Never have to reload as long as you can pick up ammo." Recommended MW: Reload.|tags:pve,mkb
@@ -1399,7 +1315,6 @@ dimwishlist:item=47772649&perks=1840239774,2420895100,4252909580,2848615171
 dimwishlist:item=47772649&perks=1482024992,2420895100,4252909580,2848615171
 dimwishlist:item=47772649&perks=3250034553,2420895100,4252909580,2848615171
 
-
 // THE SWARM
 //notes:pandapaxxy (PvP / M+KB): "For PvP anything to maximize range while also making sure not to destroy the stability. A 4C ttk is possible but not if you have to fight the gun and flinch at the same time. I said this a few times already but DO NOT drop the stability. Even on MnK stability does help, and with a weapon as unforgiving as this you really need to hit your shots." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=47772649&perks=3250034553,3142289711,2450788523,1890422124
@@ -1412,18 +1327,12 @@ dimwishlist:item=47772649&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=47772649&perks=1482024992,3142289711,1359896290,1890422124
 dimwishlist:item=47772649&perks=1840239774,3142289711,1359896290,1890422124
 
-
 // Salvager's Salvo
 //notes:pandapaxxy (PvE / M+KB): "The perks and overall utility aren’t bad and it gives New Light’s and players with bad RNG (me) access to an A tier grenade launcher. For PvE I really like the combination of ambitious assassin for double grenades and chain reaction for more boom. But you really can’t go wrong with either of them." Recommended MW: Handling.|tags:pve,mkb
 dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
 dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
-
-
-// Salvager's Salvo
-//notes:pandapaxxy (PvP / M+KB): "For PvP the only useful perk is demolitionist. There’s a niche for ambitious assassin and it certainly throws me off whenever I go up against it, but that is few and far between. Vorpal is arguably the better of the two perks but either could work. Punish people who touch cheeks or have more damage against Behemoths I mean supers." Recommended MW: Handling.|tags:pvp,mkb
-
 
 // Brass Attacks
 //notes:pandapaxxy (PvE / M+KB): "I’m happy to see a Breachlight replacement. While not a direct replacement being an energy weapon it does allow some loadout diversity, which is never a bad thing. Rapid hit or feeding frenzy is up to how good you can “click heads”. [...] For the final perk I really enjoy one for all, but the tried and true rampage is a great bet." Recommended MW: Reload.|tags:pve,mkb
@@ -1653,10 +1562,6 @@ dimwishlist:item=3075224551&perks=1840239774,2969185026,2450788523,2848615171
 dimwishlist:item=3075224551&perks=839105230,2969185026,2450788523,2848615171
 dimwishlist:item=3075224551&perks=3250034553,2969185026,2450788523,2848615171
 
-
-title:u/pandapaxxy's Season of the Chosen Nightfall Ordeal, Ritual, Season Pass Breakdown, Controller
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw5dn/nightfall_ordeal_ritual_season_pass_breakdown/
-
 // The Palindrome
 //notes:pandapaxxy (PvE / Controller): "Overflow is easily one of my favorite perks in all of Destiny 2. Simply walk over special or heavy ammo and not only is your gun reloaded but its mag is doubled? Heck yes. Pair that with the new(ish) one for all perk that gives you better damage from clearing adds? A match made in heaven. If you want more direct damage increases then rampage is your go-to. Never have to reload as long as you can pick up ammo." Recommended MW: Reload.|tags:pve,controller
 dimwishlist:item=432476743&perks=4090651448,1087426260,3643424744,4049631843
@@ -1851,15 +1756,6 @@ dimwishlist:item=47772649&perks=1840239774,3177308360,3436462433,2387244414
 dimwishlist:item=47772649&perks=4090651448,3177308360,3436462433,2387244414
 dimwishlist:item=47772649&perks=1482024992,3177308360,3436462433,2387244414
 
-
-// Salvager's Salvo
-//notes:pandapaxxy (PvE / Controller): "The perks and overall utility aren’t bad and it gives New Light’s and players with bad RNG (me) access to an A tier grenade launcher. For PvE I really like the combination of ambitious assassin for double grenades and chain reaction for more boom. But you really can’t go wrong with either of them." Recommended MW: Handling.|tags:pve,controller
-
-
-// Salvager's Salvo
-//notes:pandapaxxy (PvP / Controller): "For PvP the only useful perk is demolitionist. There’s a niche for ambitious assassin and it certainly throws me off whenever I go up against it, but that is few and far between. Vorpal is arguably the better of the two perks but either could work. Punish people who touch cheeks or have more damage against Behemoths I mean supers." Recommended MW: Handling.|tags:pvp,controller
-
-
 // Brass Attacks
 //notes:pandapaxxy (PvE / Controller): "I’m happy to see a Breachlight replacement. While not a direct replacement being an energy weapon it does allow some loadout diversity, which is never a bad thing. Rapid hit or feeding frenzy is up to how good you can “click heads”. [...] For the final perk I really enjoy one for all, but the tried and true rampage is a great bet." Recommended MW: Reload.|tags:pve,controller
 dimwishlist:item=2121785039&perks=1392496348,1087426260,247725512,4049631843
@@ -1914,15 +1810,6 @@ dimwishlist:item=2121785039&perks=1392496348,1885400500,2779035018,3425386926
 dimwishlist:item=2121785039&perks=3661387068,1885400500,2779035018,3425386926
 dimwishlist:item=2121785039&perks=1392496348,1561002382,2779035018,3425386926
 dimwishlist:item=2121785039&perks=3661387068,1561002382,2779035018,3425386926
-
-
-// Threaded Needle
-//notes:pandapaxxy (PvE / Controller): "Competing against swords, rockets (with lasting impression), GLs, and any of the numerous exotic weapons means it’s hard to justify a linear fusion rifle. Clown cartridge and demo can give you an exceptional magazine, while something like rapid hit and vorpal are better for single target damage." Recommended MW: Reload.|tags:pve,controller
-
-
-// Threaded Needle
-//notes:pandapaxxy (PvP / Controller): "For PvP you’re gonna want to drop the charge time as low as possible. Make it as close to a heavy sniper rifle as you can. Actually, better yet, just use a heavy exotic sniper like Whisper of the Worm. You still styled on other guardians by killing them, AND you’re showing them that you’re using your exotic slot on a heavy weapon." Recommended MW: Charge Time.|tags:pvp,controller
-
 
 title:u/pandapaxxy's Battleground and Faction Breakdown, M+KB
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw1yk/battleground_and_faction_breakdown_mnk/
@@ -2871,10 +2758,6 @@ title:u/pandapaxxy's Battleground and Faction Breakdown, Controller
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw6tq/battleground_and_faction_breakdown_controller/
 
 // Extraordinary Rendition
-//notes:pandapaxxy (PvE / Controller): "It is in the aggressive frame archetype meaning it has direct competition with the, now fixed, Cold Front and IKELOS_SMG_v1.0.2. I vastly prefer Ikelos to the Cold Front. Mostly because of Warmind Cells in PvE being completely bonkers. [...] For PvE overflow will always be my top choice. It’s just so easy, if you’re consistently using your other weapons then it makes keeping overflow topped off a breeze. This is best paired with rampage or, my pick, one for all. If you prefer multikill clip for the highest damage you could possibly get on a primary then definitely go with outlaw as your pairing." Recommended MW: Reload.|tags:pve,controller
-
-
-// Extraordinary Rendition
 //notes:pandapaxxy (PvP / Controller): "For PvP there isn’t much you can do to make smgs better in the current sandbox. If you want to prep for when there is a time when smgs are good, you’re going to want to increase the range in a tolerable manner. You don’t want to fully invest in range because that 17 stability will bite you. But you also don’t want to fully invest in stability because you’ll lose out to other smgs. You can invest slightly more into range if you roll the combo of zen moment and tap the trigger as the two of them will add a lot of added hit registration and stability." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=1097616550&perks=1482024992,3142289711,2387244414,1890422124
 dimwishlist:item=1097616550&perks=1392496348,3142289711,2387244414,1890422124
@@ -2905,34 +2788,12 @@ dimwishlist:item=1097616550&perks=4090651448,3142289711,3643424744,2458213969
 dimwishlist:item=1097616550&perks=1392496348,3177308360,3643424744,2458213969
 dimwishlist:item=1097616550&perks=4090651448,3177308360,3643424744,2458213969
 
-
-// Far Future
-//notes:pandapaxxy (PvE / Controller): "Now this is a Beloved replacement. You cannot get the wombo combo of quickdraw and snapshot, but having opening shot instead is just as good. My best Sole Survivor was a snapshot / opening shot roll that I used as often as I could. Unfortunately the rolls do not cater themselves to PvE so keep using the IKELOS_SR_v1.0.2 or something else right now." Recommended MW: Reload.|tags:pve,controller
-
-
 // Far Future
 //notes:pandapaxxy (PvP / Controller): "The crucible is where Far Future will be making a name for itself. If you want quickdraw then invest as much as you can into range. Quickdraw will give you max out your handling stat, so any perks or stat investments are wasted. You can further increase the ready / stow / ADS speed by using dexterity and targeting perks on your armor. It might not feel as snappy as your Beloved, but it will have slightly better hit registration." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=893527433&perks=1482024992,3142289711,706527188,47981717
 dimwishlist:item=893527433&perks=1482024992,106909392,706527188,47981717
 dimwishlist:item=893527433&perks=1482024992,3142289711,588594999,47981717
 dimwishlist:item=893527433&perks=1482024992,106909392,588594999,47981717
-
-
-// Imperial Needle
-//notes:pandapaxxy (PvE / Controller): "If you want to use this for PvE content there’s a couple things you will want to look for. First look for archer’s tempo. This will greatly decrease your arrow knock back time on successive precision hits. Then look for swashbuckler. Swashbuckler pairs really well with almost anything in PvE content and is one of my favorite damage perks.easily max out your stacks with a melee and then destroy the room with a flurry of arrows. I’d also recommend dropping the draw time naturally to make shooting (drawing?) Imperial Needle a lot more fun." Recommended MW: Draw Time.|tags:pve,controller
-
-
-// Imperial Needle
-//notes:pandapaxxy (PvP / Controller): "For PvP there’s two different play styles. Let’s go over the similarities first. Drop the draw time as low as possible with your sight and your masterwork. Then increase the accuracy with your “magazine.” The way the two play styles differ is in how they approach engagements. The combo of archer’s tempo and opening shot give you a great first shot, and an easier second shot. The combination of killing wind and swashbuckler is completely different. With this roll you want to get and maintain swash 5x. With this combo you can one shot guardians (provided it’s a crit) and get increased movement speed to find the next target. Both offer different things and both are great." Recommended MW: Draw Time.|tags:pvp,controller
-
-
-// Code Duello
-//notes:pandapaxxy (PvE / Controller): "I am a bit amazed by how effective lasting impression is right now. Couple that with the other new perk impulse amplifier, and you’ve got basically all you need. You can try for impact casing or alloy casing and either would be fine. Barrels mean a lot little with the two new perks." Recommended MW: Reload.|tags:pve,controller
-
-
-// Code Duello
-//notes:pandapaxxy (PvP / Controller): "For PvP it’s hard to really recommend anything. Rocket’s that aren’t Wardcliff Coi or Truth fall off a bit in what they bring to your loadout" Recommended MW: Blast Radius.|tags:pvp,controller
-
 
 // Bottom Dollar
 //notes:pandapaxxy (PvE / Controller): "For PvE you can go a couple different ways but I really like rapid hit overall. You don’t need to get a kill, and even if you do as long as you have your stacks it doesn't have to be a precision kill. Outlaw is certainly tried and true, and because of this frame’s impact you will more than likely only need 1-2 precision shots to drop anything that isn’t shielded or a major. Fourth time’s the charm is best used for content where 1-2 shots is maybe a quarter of the enemies health bar, or when you really want to maximize your magazine. The toss-up between multikill clip or rampage will depend on whether you like to reload or not." Recommended MW: Reload.|tags:pve,controller
@@ -3004,15 +2865,6 @@ dimwishlist:item=1046651176&perks=1840239774,3177308360,2450788523,699525795
 dimwishlist:item=1046651176&perks=1482024992,3177308360,2450788523,699525795
 dimwishlist:item=1046651176&perks=1392496348,3177308360,2450788523,699525795
 
-
-// Trinary System
-//notes:pandapaxxy (PvE / Controller): "It's also not great by any stretch of the imagination." Recommended MW: Reload.|tags:pve,controller
-
-
-// Trinary System
-//notes:pandapaxxy (PvP / Controller): "For PvP it’s hard to justify this over Glacioclasm, or even your sunset Erentil-FR4. Adaptive frame fusions are just in a terrible spot within their class and fusions are underused overall." Recommended MW: Range.|tags:pvp,controller
-
-
 // Frozen Orbit
 //notes:pandapaxxy (PvE / Controller): "Finally a decent competitor for a PvE sniper rifle. Appended mag will bump the magazine to 4, add a backup mag with triple tap and you’ll get the best bang for your magazine. Vorpal weapon will bring your damage number up more in-line with major or boss spec, you can use those instead of backup mag but for most PvE situations you’re not going into it with optimal dps in mind. If you burn the strike boss, that’s cool." Recommended MW: Reload.|tags:pve,controller
 dimwishlist:item=3473290087&perks=1482024992,1087426260,3400784728,1546637391
@@ -3064,11 +2916,6 @@ dimwishlist:item=3473290087&perks=1482024992,3142289711,2450788523,47981717
 dimwishlist:item=3473290087&perks=1482024992,106909392,2450788523,47981717
 dimwishlist:item=3473290087&perks=1482024992,3142289711,280464955,47981717
 dimwishlist:item=3473290087&perks=1482024992,106909392,280464955,47981717
-
-
-// The Keening
-//notes:pandapaxxy (PvE / Controller): "I absolutely love this archetype of sidearm. [...] In PvE rapid hit is definitely the best in slot, with surplus only being decent if you don’t like grenades (Shaxx would be so disappointed in you). One for all is the best damage perk in my opinion, with multikill clip coming in a very close second. If you can get and maintain at least mkc 2x then you’re probably going to get more out of mkc than one for all." Recommended MW: Reload.|tags:pve,controller
-
 
 // The Keening
 //notes:pandapaxxy (PvP / Controller): "For PvP you’re going to want to increase this bad boy’s range. Effective range on sidearms is a bit booty cheeks but better hit registration within your effective range will never not be a good thing. Smallbore and ricochet round giving bonuses to range and stability also gives you the best chances of coming out of that engagement with pride and without a tacky respawn effect. Any of the above third column perks will be great as sidearms aren’t really a multikill stringing weapon. Anything to increase your consistency in the current fight will, more often than not, be better than increasing lethality in the second fight." Recommended MW: Range.|tags:pvp,controller
@@ -3170,15 +3017,6 @@ dimwishlist:item=4156253727&perks=839105230,1885400500,2387244414,3425386926
 dimwishlist:item=4156253727&perks=3661387068,1885400500,2387244414,3425386926
 dimwishlist:item=4156253727&perks=839105230,1561002382,2387244414,3425386926
 dimwishlist:item=4156253727&perks=3661387068,1561002382,2387244414,3425386926
-
-
-// Royal Entry
-//notes:pandapaxxy (PvE / Controller): "Precision frame means that Royal Entry has inherent tracking. That’s cool and definitely means that you’re guaranteed to hit something. Tracking in destiny 2 is really iffy. Impulse amplifier and lasting impression are gonna be my personal recommendations. But I also really like auto-loading holster for general utility when in PvE. Unless you are really tied to impulse amplifier, either option will work." Recommended MW: Reload.|tags:pve,controller
-
-
-// Royal Entry
-//notes:pandapaxxy (PvP / Controller): "For PvP it’s still a rocket, but this rocket can track! Quickdraw means you can whip out your pocket rocket (phrasing?) and fire off a quick shot (really?) into the enemies cheeks (I hate me right now) to net yourself a kill. It probably won’t be as good as other heavy weapons as you only get one chance to either get that awesome multikill with chain reaction or completely miss because the rocket tracked into a wall. There is no inbetween." Recommended MW: Blast Radius.|tags:pvp,controller
-
 
 title:u/pandapaxxy's (Chosen) Returning Weapons Breakdown, M+KB
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnvzh2/returning_weapons_breakdown_mnk/
@@ -4168,18 +4006,6 @@ dimwishlist:item=3335343363&perks=3250034553,689005463,280464955,3425386926
 title:u/pandapaxxy's (Chosen) Returning Weapons Breakdown, Controller
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/lnw3yq/returning_weapons_breakdown_controller/
 
-// Retold Tale
-//notes:pandapaxxy (PvE / Controller): "precision frame shotguns just aren’t in a good place right now. [...] Aggressive frame shotguns exist, therefore they are better, and lightweight frames have a much better two tap, not to mention it’s faster, and give the lightweight bonus. For PvE there aren’t clear cut perks you should definitely have. Surplus will make the shotgun feel great but only if you have more than 2 of your abilities up at a time. Vorpal will be great for chewing through majors but any shotgun will." Recommended MW: Reload.|tags:pve,controller
-
-
-// Retold Tale
-//notes:pandapaxxy (PvP / Controller): "For PvP there are just better options. Quickdraw and killing wind allow some really aggressive play styles, but unless you’re in Trials or Iron Banner just keep using Felwinter’s Lie (still good until the end of this season) or Mindbender’s Ambition if you’re feeling cheeky." Recommended MW: Reload.|tags:pvp,controller
-
-
-// Vouchsafe
-//notes:pandapaxxy (PvE / Controller): "The only redeeming quality about this scout is that there’s anti-barrier scout rifle this season. [...] It’s just outclassed by other weapons" Recommended MW: Reload.|tags:pve,controller
-
-
 // Vouchsafe
 //notes:pandapaxxy (PvP / Controller): "For PvP you can use a lightweight scout, but if it’s not Symmetry, or MIDA Multi-Tool why bother?" Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=3242168339&perks=1392496348,3142289711,247725512,3038247973
@@ -4228,11 +4054,6 @@ dimwishlist:item=3242168339&perks=1482024992,3177308360,3436462433,3592538738
 dimwishlist:item=3242168339&perks=1392496348,3177308360,3436462433,3592538738
 dimwishlist:item=3242168339&perks=1392496348,106909392,3436462433,3592538738
 
-
-// Waking Vigil
-//notes:pandapaxxy (PvE / Controller): "One of my all time favorite energy primaries has returned and came back even stronger. For PvE rapid hit will be the absolute best in slot. Outlaw is a good second but when the difficulty goes up rapid hit just becomes so much better. Pair that with kill clip for add clear, dragonfly for a better Nation of Beasts or Ancient Gospel, or vorpal if you’re feeling saucy. There’s a Waking Vigil for almost every aspect of PvE content." Recommended MW: Reload.|tags:pve,controller
-
-
 // Waking Vigil
 //notes:pandapaxxy (PvP / Controller): "Crucible is where I think Waking Vigil will be able to flex it’s metaphorical muscles. [...] Dire Promise was praised for being in the meta archetype and having access to two of the most dominant hand cannon perks: rangefinder and opening shot. Waking Vigil just takes that good recipe and puts it in the energy slot allowing you more flexibility in your loadouts." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=334171687&perks=1926090095,1885400500,247725512,47981717
@@ -4252,27 +4073,6 @@ dimwishlist:item=334171687&perks=1926090095,1885400500,2846385770,1015611457
 dimwishlist:item=334171687&perks=1926090095,1561002382,2846385770,1015611457
 dimwishlist:item=334171687&perks=1926090095,1885400500,2450788523,1015611457
 dimwishlist:item=334171687&perks=1926090095,1561002382,2450788523,1015611457
-
-
-// Sleepless
-//notes:pandapaxxy (PvE / Controller): "For PvE I have been enjoying chain reaction for lower end activities. More boom? Idk does something to my simple mind seeing more explosions. For mid-tier activities vorpal weapon, wellspring, or demo start to become a lot more important. Getting the most from each of your rockets in Master or Grandmaster level nightfalls means you won’t be completely wasting a weapon." Recommended MW: Reload.|tags:pve,controller
-
-
-// Sleepless
-//notes:pandapaxxy (PvP / Controller): "We will make this quick because PvP rocket’s is just whatever has high blast radius and makes guardians go BOOM." Recommended MW: Blast Radius.|tags:pvp,controller
-
-
-// Blasphemer
-//notes:pandapaxxy (PvE / Controller): "It’s nice to see a “new” kinetic slug shotgun that could compete with last season’s Heritage. If you’re going for big boi damage then fourth time’s the charm will get you the best total damage, netting you 10 shots in one mag. It won’t have the burst capabilities of recombination, but for a solo player or someone who hasn’t gotten one to drop then it makes it easier to keep up." Recommended MW: Reload.|tags:pve,controller
-
-
-// Blasphemer
-//notes:pandapaxxy (PvP / Controller): "For PvP it’s really clear what you need to compete in this meta. Increase the range, increase RPM for follow up shots, quickdraw to max handling, opening shot for extra oomph. It’s almost like the curated was the best roll we could have asked for." Recommended MW: Range.|tags:pvp,controller
-
-
-// Apostate
-//notes:pandapaxxy (PvE / Controller): "Unfortunately the new Apostate isn’t suited at all for PvE activities. No triple tap or fourth time’s the charm really hurt it’s case competing with the likes of Succession, the IKELOS_SR_v1.0.2, heck even Adored." Recommended MW: Reload.|tags:pve,controller
-
 
 // Apostate
 //notes:pandapaxxy (PvP / Controller): "Even then having quickdraw and opening shot in the same column doesn’t make sense. You can pair quickdraw with firmly planted for an aggressive sliding sniper, or killing wind for general use. Not terrible by any means, but could be better." Recommended MW: Range.|tags:pvp,controller
@@ -4300,7 +4100,6 @@ dimwishlist:item=2164448701&perks=1482024992,3142289711,2866798147,47981717
 dimwishlist:item=2164448701&perks=1840239774,3142289711,2866798147,47981717
 dimwishlist:item=2164448701&perks=1482024992,106909392,2866798147,47981717
 dimwishlist:item=2164448701&perks=1840239774,106909392,2866798147,47981717
-
 
 // Premonition
 //notes:pandapaxxy (PvE / Controller): "Feeding frenzy beats outlaw in my book for the ease of use, and rampage / thresh are better compared to kill clip. Yes kill clip is an easier boost, but rampage is easier to keep up and thresh gives more supers." Recommended MW: Reload.|tags:pve,controller
@@ -4362,49 +4161,6 @@ dimwishlist:item=208088207&perks=839105230,1885400500,2450788523,957782887
 dimwishlist:item=208088207&perks=1392496348,1885400500,2450788523,957782887
 dimwishlist:item=208088207&perks=839105230,1561002382,2450788523,957782887
 dimwishlist:item=208088207&perks=1392496348,1561002382,2450788523,957782887
-
-
-// Heretic
-//notes:pandapaxxy (PvE / Controller): "For PvE lasting impression is really the only thing you want to look for. Demo or cluster bomb are great for general utility but lasting impression really makes rocket launchers into a major delete button." Recommended MW: Reload.|tags:pve,controller
-
-
-// Heretic
-//notes:pandapaxxy (PvP / Controller): "For PvP impulse amplifier can give your rocket the extra power to make sure guardians go dead. Big booms, ya know?" Recommended MW: Blast Radius.|tags:pvp,controller
-
-
-// Cartesian Coordinate
-//notes:pandapaxxy (PvE / Controller): "Rapid-fire fusions have never been meta in any activity really. For PvE your best bet is feeding frenzy to reduce downtime between magazines and swashbuckler for how easy it is to get 5x. Vorpal is a good second option but unfortunately these fusions just don’t do enough damage to make it matter." Recommended MW: Reload.|tags:pve,controller
-
-
-// Cartesian Coordinate
-//notes:pandapaxxy (PvP / Controller): "For PvP maximizing consistency is highly important on these fusions. Getting as many bolts on target will maximize success. Under pressure is the best in slot for most players, and high-impact reserves gives you a bit more leeway when you’re firing. It’s definitely not the best fusion in the world, but it works and it exists." Recommended MW: Range.|tags:pvp,controller
-
-
-// Eternal Blazon
-//notes:pandapaxxy (PvE / Controller): "Eternal Blazon struggles with the fact that most of its perks just aren’t as good as Trustee. The one redeeming quality is the combination of rapid hit and one for all giving it some great utility with max stacks of rapid hit and the increased damage with one for all." Recommended MW: Reload.|tags:pve,controller
-
-
-// Eternal Blazon
-//notes:pandapaxxy (PvP / Controller): "For PvP you can try and make this a slightly better MIDA Multi-Tool with rapid hit and kill clip. High-caliber rounds are also a good option to add some extra flinch but the low stability of 41 is gonna make me lean more towards ricochet rounds over hcr." Recommended MW: Stability.|tags:pvp,controller
-
-
-// Retrofuturist
-//notes:pandapaxxy (PvE / Controller): "You can try and farm for a Retrofuturist or use your old Seventh Seraph CQC-12.[...] I really like Retrofuturist’s rolls because I prefer swashbuckler to vorpal weapon on shotguns just because seeing the swashbuckler 5x makes me smile. Both shotguns offer slightly different niches and for PvE you can’t go wrong with either." Recommended MW: Reload.|tags:pve,controller
-
-
-// Retrofuturist
-//notes:pandapaxxy (PvP / Controller): "For PvP quickdraw is a must. Anything else can come down to what you like. I prefer the combination of full choke and assault mag because I always ADS when I shotgun and I don’t shotgun often so I often times two tap. If you hip-fire more often or more than I do then rifled barrel could be the better option. I definitely feel that the reload masterwork is best in slot as the added range from either rifled or accurized gets you to a perfect two-tap distance. You will never out-range an aggressive frame shotgun." Recommended MW: Reload.|tags:pvp,controller
-
-
-// Tarantula
-//notes:pandapaxxy (PvE / Controller): "Competing against current sandbox swords, the new rockets, and even grenade launchers to an extent for pure damage will always result in linear fusion rifles coming in last. Tarantula doesn’t have any add clear capabilities like a machine gun or blast radius weapon." Recommended MW: Reload.|tags:pve,controller
-
-
-// Tarantula
-//notes:pandapaxxy (PvP / Controller): "Actually, better yet, just use a heavy exotic sniper like Whisper of the Worm. You still styled on other guardians by killing them, AND you’re showing them that you’re using your exotic slot on a heavy weapon." Recommended MW: Charge Time.|tags:pvp,controller
-
-
-
 
 title:@AyyItsChevy's Super Pog PvE Loot List
 
@@ -4618,15 +4374,6 @@ dimwishlist:item=1786797708&perks=106909392,3643424744,3708227201#notes:Chevy's 
 dimwishlist:item=1786797708&perks=1087426260,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
 dimwishlist:item=1786797708&perks=106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
 dimwishlist:item=1786797708&perks=1087426260,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
-
-
-
-dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
-dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
-dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
-dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
-
-
 
 dimwishlist:item=3622137132&perks=445755707,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
 dimwishlist:item=3622137132&perks=445755706,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
@@ -5412,11 +5159,6 @@ dimwishlist:item=3856705927&perks=1482024992,2846385770,3326204863
 dimwishlist:item=3856705927&perks=3250034553,957782887,3326204863
 dimwishlist:item=3856705927&perks=1482024992,957782887,3326204863
 
-
-
-title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
-
 // Cold Front
 //notes:pandapaxxy (PvE / Controller): "For a kinetic SMG it has some relatively steep competition namely the warmind weapons in the energy slot. I don’t really think the perk pool leans itself towards PvE or PvP specifically but there are some decent combos. I’d recommend trying to grab yourself a One for All roll as it doesn’t roll on any SMGs this season." Recommended MW: Stability.|tags:pve,controller
 dimwishlist:item=1506719573&perks=1392496348,106909392,3436462433,3425386926
@@ -5535,11 +5277,6 @@ dimwishlist:item=1030895163&perks=1482024992,3868766766,3436462433,4082225868
 dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,4082225868
 dimwishlist:item=1030895163&perks=1482024992,2969185026,3436462433,4082225868
 dimwishlist:item=1030895163&perks=1392496348,2969185026,3436462433,4082225868
-
-
-// Avalanche
-//notes:pandapaxxy (PvE / Controller): "Avalanche came back and it’s worse than ever. My favorite sight on any SUROS weapon is the SPO-57 Front, offers some decent zoom and highlights targets making my life aiming just ever so easier. Bumping up the average 57 magazine in combination with Auto-Loading Holster will make reloading a thing of the past. Vorpal is definitely the easiest to use as most majors will trigger it, and you don’t have to think about it. Outlaw and Dragonfly pair together as do Grave Robber and Swashbuckler." Recommended MW: Reload.|tags:pve,controller
-
 
 // Avalanche
 //notes:pandapaxxy (PvP / Controller): "For PvP it’s hard to pass this over Commemoration. A better sight or consistency will lead to an easier time but it doesn’t always translate on paper. Avalanche fire’s kinda weird and the best way to describe it is a double mule. Once you tame one the other bucks you off target. Zen Moment and Tap the Trigger are really the best in slots to make both mules a lot easier to control." Recommended MW: Stability.|tags:pvp,controller
@@ -6312,10 +6049,6 @@ dimwishlist:item=2453357042&perks=1478423395,409831596,2450788523,3425386926
 title: u/pandapaxxy's Faction/Season (of the Hunt) recommendations, Controller edition
 description: Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwkw2/factions_and_season_pass_controller/
 
-// Adored
-//notes:pandapaxxy (Controller / PvE / PvP): "[...] If you have a perfect Ikelos_SR_v1.0.2 and can handle the fire rate then the Ikelos is the better dps weapon, but if you’re new, missed out, or just didn’t bother then Adored is honestly a solid option for PvE. In PvP is where I think Adored will live and die. [...] Snapshot sights and killing wind will make for a highly aggressive play style that I am certainly on board for. If you enjoyed Beloved and want a similar, albeit weaker version, for end game activities Adored is the sniper for you."|tags:controller,pve,pvp
-
-
 // Stars in Shadow
 //notes:pandapaxxy (Controller / PvE): "I’m honestly excited for this pulse rifle. [...] For PvE you really just want to bump up the abysmal 31 handling. Arrowhead improves the recoil direction a ton but if you find it okay then fluted will be a better handling bump. The next thing we improve is the magazine from 9 bursts to 10, 11, or 12 depending on what mag option you go for. I think 11 is the sweet spot, but you don’t get the stat bonuses that you would from tactical mag. Outlaw and kill clip are the easy choices for best combos, especially for solo play. For group activities I can see disruption break being a top choice, pulse rifles do get anti-barrier so having disruption break could be the difference in grandmaster activities and the new raid." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,1015611457
@@ -6461,12 +6194,6 @@ dimwishlist:item=2050789284&perks=1392496348,106909392,2450788523,588594999
 dimwishlist:item=2050789284&perks=1482024992,3142289711,2450788523,588594999
 dimwishlist:item=2050789284&perks=1392496348,3142289711,2450788523,588594999
 
-
-
-// Xenoclast IV
-//notes:pandapaxxy (Controller / PvE): "Since range isn’t ideal on PvE shotguns (you’re more than likely barrel-stuffing anyway) barrel shroud just improves your guns' snappiness. In terms of mags you can go one of a few different ways. If you want pure burst damage then the best choice is assault mag to really empty your magazine. For more general play I’d recommend tactical mag or appended mag. Both increase your magazine to the 7 cap without any downsides, meaning you can slot a boss or major spec in your mod slot. For trait perks it’s really hard to decide which is best. As a “primary” grave robber easily becomes the best in slot, with any of the melee focused perks. For more DPS heavy shotgun auto-loading holster combined with vorpal weapon is easily the best major buster. Whichever you choose there’s plenty of personalization for this shotgun." Recommended MW - Reload.|tags:controller,pve
-
-
 // Xenoclast IV
 //notes:pandapaxxy (Controller / PvP): "For PvP this will not beat the Seventh Seraph CQC-12. Surplus combined with higher handling and assault mag could be close but actually having quickdraw beats a pseudo-quickdraw. Especially if you use your abilities a lot as that drastically reduces the handling from surplus. If you’re okay with a slower shotgun either as a main or if you’re using an exotic like Dragon’s Shadow or Ophidian Aspects then the Xenoclast IV has an incredible final perk slot. Killing wind, eye of the storm, vorpal, demolitionist, thresh, disruption break just to name a few. Killing wind is the obvious best in slot for follow up shotgun shots. Eye of the storm is also helpful for the ever present pellet RNG making the accuracy cone that much tighter." Recommended MW - Handling.|tags:controller,pvp
 dimwishlist:item=2891672170&perks=1047830412,679225683,3436462433,2450788523
@@ -6493,16 +6220,6 @@ dimwishlist:item=2891672170&perks=1047830412,791862061,2039302152,3523296417
 dimwishlist:item=2891672170&perks=1332244541,791862061,2039302152,3523296417
 dimwishlist:item=2891672170&perks=1047830412,679225683,2039302152,3523296417
 dimwishlist:item=2891672170&perks=1332244541,679225683,2039302152,3523296417
-
-
-// Crowd Pleaser
-//notes:pandapaxxy (Controller / PvE): "A firefly effect on an explosion? More explosions? Heck yeah! It’s like a better Oxygen SR3 with so many less shots. If it works the way I think it does you can set up your loadout to have this in your heavy slot for add-clear, and have a specialized long and short range major and boss killer." Recommended MW - Reload.|tags:controller,pve
-
-
-
-// Crowd Pleaser
-//notes:pandapaxxy (Controller / PvP): "In PvP I can’t really justify this being better than a Play of the Game, you could opt for a similar roll with both proxy grenades and killing wind for ease of use and better mobility after a kill, respectively. Overall much more of a PvE gun." Recommended MW - Blast Radius.|tags:controller,pvp
-
 
 // Royal Chase
 //notes:pandapaxxy (Controller / PvE): "I’m not impressed with Royal Chase. It looks almost like a carbon copy of Distant Relation. The lack of outlaw or feeding frenzy really puts a limit on how much I’ll enjoy using it for daily PvE activities. You can definitely make a case for this weapon as multikill clip is an amazing perk with insane uptime. Field prep is basically outlaw on command with a crouch at the start but there’s nothing that stands out to me as this weapon being a “must have.”" Recommended MW - Reload.|tags:controller,pve
@@ -6574,15 +6291,6 @@ dimwishlist:item=2776503072&perks=1392496348,3142289711,2866798147,2458213969
 dimwishlist:item=2776503072&perks=1482024992,3177308360,4267945040,2458213969
 dimwishlist:item=2776503072&perks=1392496348,3177308360,4267945040,2458213969
 dimwishlist:item=2776503072&perks=1392496348,3142289711,4267945040,2458213969
-
-
-// Blast Battue
-//notes:pandapaxxy (Controller / PvE): "Blast Battue says more explosions. Comparing Crowd Pleaser to Blast Battue is an easy one. Crowd Pleaser has more perks to choose from, making the loot pool harder to get your preferred roll, but it also has better perks to choose from than Blast Battue. If you’re looking for a quick GL to use and don’t really care then this GL will serve you very well. Having access via the season pass and levelling that up to give you more of these from any activity will just make this GL more enticing for people who dislike Gambit." Recommended MW - Reload.|tags:controller,pve
-
-
-// Blast Battue
-//notes:pandapaxxy (Controller / PvP): "For PvP you know the drill. Proximity grenades for ease of use. High blast radius to counteract the drop from proxy and make the AoE even bigger. Quickdraw for hot swaps after picking up power ammo. Wellspring or disruption break could be interesting plays. Wellspring is great for ability uptime, and if you don’t net the kill disruption break will make your kinetic do 50% more damage." Recommended MW - Blast Radius.|tags:controller,pvp
-
 
 title: u/pandapaxxy's Europa Weapon recommendations, M+KB edition
 description: Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwi2x/europa_weapons_mnk/
@@ -8076,23 +7784,6 @@ dimwishlist:item=4037745684&perks=4090651448,3142289711,3436462433,2039302152
 dimwishlist:item=4037745684&perks=1482024992,3142289711,3436462433,2039302152
 dimwishlist:item=4037745684&perks=1840239774,3142289711,3436462433,2039302152
 
-
-// Subzero Salvo
-//notes:pandapaxxy (Controller / PvE): "A Zenobia-D replacement with intrinsic tracking is honestly pretty awesome. Couple that with either quickdraw or killing wind for a snappy rocket or a “cool guys go zoomies after explosions.” Cluster bomb is the best in slot perk but chain reaction could be good if the blast radius is good enough. Do remember that rockets got an increase to their reserves, which could make them good utilitarian weapons for general PvE." Recommended MW - Reload.|tags:controller,pve
-
-
-// Subzero Salvo
-//notes:pandapaxxy (Controller / PvP): "In PvP rockets haven’t been the best options but are really good fire-and-forget options. With inherent tracking just being icing on top. You’re going to want to maximize blast radius to make sure you at least get some damage if the tracking doesn’t do its job. Quickdraw is definitely the best perk in slot but firing a rocket launcher only to get a movement speed increase would be incredibly useful." Recommended MW - Blast Radius.|tags:controller,pvp
-
-
-// Biting Winds
-//notes:pandapaxxy (Controller / PvE): "I’m excited for this bow, mostly because the only direct competition is the raid bow Accrued Redemption. This just means that you have more access to a super awesome bow. Having rapid hit and explosive head is amazing for champions and higher end PvE." Recommended MW - Draw Time.|tags:controller,pve
-
-
-// Biting Winds
-//notes:pandapaxxy (Controller / PvP): "In PvP bows not named Le Monarche have a very low usage rate compared to other primary weapons. You’re going to want to lower the draw time as much as possible and also increase your accuracy as much as possible. Elastic string does drop the accuracy but fiberglass arrow shaft does bring it back up some." Recommended MW - Draw Time.|tags:controller,pvp
-
-
 // Coriolis Force
 //notes:pandapaxxy (Controller / PvE): "It will certainly be interesting to play with but I don’t think it will be meta shattering or game breaking by any means. For PvE activities feeding frenzy is the best in slot perk. Killing wind is a very close second, but having less downtime between reloads will feel the best. Thresh just looks like an all around good perk to have. You’ll be tearing through enemies in most activities with ease, so having more supers to use will be appreciated." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=3512349612&perks=4090651448,1483536627,2779035018,2726471870
@@ -8371,17 +8062,6 @@ dimwishlist:item=981718087&perks=3525010810,2010801679,3425386926,3300816228
 dimwishlist:item=981718087&perks=3798852852,2010801679,3425386926,3300816228
 dimwishlist:item=981718087&perks=1441682018,2010801679,3425386926,3300816228
 
-
-// Deafening Whisper
-//notes:pandapaxxy (Controller / PvP): "In PvP we saw that Martyr’s Retribution was mostly a meme, you could do well with it but that doesn’t mean the weapon is good. Killing wind and auto-loading holster make this a really good opener or finisher as guardians run away from purple flames of death." Recommended MW - Velocity.|tags:controller,pvp
-
-
-// Corsair's Wrath
-//notes:pandapaxxy (Controller / PvE): "Now this is certainly not better than Line in the Sand but it has its merits. For PvE both of the mag extending perks get you to 6, but enhanced battery does so without dropping your reload speed. Outlaw does help minimize downtime between mags but it is not better than rapid hit. High-impact reserves does keep Corsair’s Wrath competitive in terms of DPS." Recommended MW - Reload.|tags:controller,pve
-
-
-// Corsair's Wrath
-//notes:pandapaxxy (Controller / PvP): "In terms of crucible you will still be able to one shot kill guardians with a lower charge time, so minimizing that to speed up shots is what you’re after. Full bore for the most range, the drop in handling and stability doesn’t matter here. Quickdraw cancels out the first and stability on a linear fusion rifle is a joke. Accelerated coils coupled with a charge time masterwork gives you the lowest charge time possible at 466 and moving target helps you land the first shot." Recommended MW - Charge Time.|tags:controller,pvp
 
 title:u/pandapaxxy's Adept Trials (Season of the Hunt) breakdown, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwj91/iron_banner_and_trials_mnk/
@@ -9067,58 +8747,6 @@ dimwishlist:item=1366917989&perks=1844523823,3796465595,588594999,957782887
 dimwishlist:item=1366917989&perks=1441682018,3796465595,588594999,957782887
 dimwishlist:item=1366917989&perks=1478423395,3796465595,588594999,957782887
 
-
-title:u/pandapaxxy's Adept Trials (Season of the Hunt) breakdown, Controller edition
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwl4p/iron_banner_and_trials_controller/
-
-// Astral Horizon (Adept)
-//notes:pandapaxxy (Controller / PvE): "Did you ask for a kinetic Mindbenders? Because we got a kinetic Mindbenders. In PvE Swash or 1-2p is certainly the way to go for chunking down majors or ultras but you should have one already. And if you’re going into trials looking for a PvE shotgun you’re mistaken." Recommended MW - Reload.|tags:controller,pve
-
-
-// Astral Horizon (Adept)
-//notes:pandapaxxy (Controller / PvP): "PvP is all this gun was made for. We’re still figuring out the effects of the most recent shotgun nerf but I’m confident that Full Choke is among the best options. In true god roll form you’ll have quickdraw to make up for the handling so Barrel Shroud is out, and range isn’t nearly as important so Rifled Barrel is out too. NEVER USE SMOOTHBORE. In terms of mag perks Assault Mag is just a direct upgrade, and both Light Mag and Tactical Mag are nice increases to reload and mag size respectively. In terms of your trait perks Quickdraw is by and away the best perk there, and Opening Shot is incredible post-nerf." Recommended MW - Reload.|tags:controller,pvp
-
-
-// Eye of Sol (Adept)
-//notes:pandapaxxy (Controller / PvE): "The Trials sniper is alright at best. It won’t beat Revoker over the best in slot, and can’t really beat Beloved for best in its class. There’s arguments for Tranquility, Long Shadow and Eye of Sol, but other than the novelty of “Shortgaze” you probably won’t see this often. This sniper can get Vorpal Weapon and Box Breathing which can both take out supers post sniper nerf. But I don’t know if that will push it over Revoker or any other sniper due to the 45 zoom that comes standard." Recommended MW - Reload.|tags:controller,pve
-
-
-// Eye of Sol (Adept)
-//notes:pandapaxxy (Controller / PvP): "The Trials sniper is alright at best. It won’t beat Revoker over the best in slot, and can’t really beat Beloved for best in its class. There’s arguments for Tranquility, Long Shadow and Eye of Sol, but other than the novelty of “Shortgaze” you probably won’t see this often. This sniper can get Vorpal Weapon and Box Breathing which can both take out supers post sniper nerf. But I don’t know if that will push it over Revoker or any other sniper due to the 45 zoom that comes standard." Recommended MW - Handling or Range.|tags:controller,pvp
-
-
-// The Scholar (Adept)
-//notes:pandapaxxy (Controller / PvE): "The base 37 handling is just abysmal. Then the only poor stat is stability. MnK doesn’t necessarily need it, but it will help for follow up shots as damage drop off from a lack of range isn’t going to be prevalent on any map. In the final slot you could opt for Vorpal Weapon to do more damage to supers or No Distractions to almost ensure the three tap." Recommended MW - Reload.|tags:controller,pve
-
-
-// The Scholar (Adept)
-//notes:pandapaxxy (Controller / PvP): "The base 37 handling is just abysmal. Then the only poor stat is stability. MnK doesn’t necessarily need it, but it will help for follow up shots as damage drop off from a lack of range isn’t going to be prevalent on any map. In the final slot you could opt for Vorpal Weapon to do more damage to supers or No Distractions to almost ensure the three tap." Recommended MW - Stability or Handling.|tags:controller,pvp
-
-
-// Exile's Curse (Adept)
-//notes:pandapaxxy (Controller / PvE): "does not have Quickdraw as an optional perk, so Fluted Barrel will help out the base 34 handling speed. [...] Firmly Planted is the best perk for fusions post backup plan nerf but was also extraordinary beforehand. In the final column Elemental Capacitor can also increase that handling or stability, whatever is lacking." Recommended MW - Reload.|tags:controller,pve
-
-
-// Exile's Curse (Adept)
-//notes:pandapaxxy (Controller / PvP): "does not have Quickdraw as an optional perk, so Fluted Barrel will help out the base 34 handling speed. [...] Firmly Planted is the best perk for fusions post backup plan nerf but was also extraordinary beforehand. In the final column Elemental Capacitor Stability or Handlingalso increase that handling or stability, whatever is lacking." Recommended MW - Reload.|tags:controller,pvp
-
-
-// The Summoner (Adept)
-//notes:pandapaxxy (Controller / PvE): "is the next hottest thing [...] It’s almost fitting that the trials auto is also 600 RPM. Like with some of the faction weapons Overflow is just a utility perk that will passively help you. Another great perk is Rangefinder to push out the effective range as much as possible. One thing to note is the recoil direction is poor, so something like Extended Barrel to improve the range while also increasing that recoil direction will help out a ton. Slap on a Counterbalance mod and you’ll be freeing up your exotic slot." Recommended MW - Reload.|tags:controller,pve
-
-
-// The Summoner (Adept)
-//notes:pandapaxxy (Controller / PvP): "is the next hottest thing [...] It’s almost fitting that the trials auto is also 600 RPM. Like with some of the faction weapons Overflow is just a utility perk that will passively help you. Another great perk is Rangefinder to push out the effective range as much as possible. One thing to note is the recoil direction is poor, so something like Extended Barrel to improve the range while also increasing that recoil direction will help out a ton. Slap on a Counterbalance mod and you’ll be freeing up your exotic slot." Recommended MW - Stability or Handling.|tags:controller,pvp
-
-
-// Tomorrow's Answer (Adept)
-//notes:pandapaxxy (Controller / PvE): "Nothing crazy about it. [...] but cluster bombs to get cheeky corner kills is something I cannot get enough of." Recommended MW - Reload.|tags:controller,pve
-
-
-// Tomorrow's Answer (Adept)
-//notes:pandapaxxy (Controller / PvP): "Nothing crazy about it. [...] but cluster bombs to get cheeky corner kills is something I cannot get enough of." Recommended MW - Blast Radius.|tags:controller,pvp
-
-
 title:u/pandapaxxy's Deep Stone Crypt weapons breakdown, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/k10o67/deep_stone_crypt_mnk/
 
@@ -9237,11 +8865,6 @@ dimwishlist:item=4248569242&perks=4090651448,791862061,1168162263,588594999
 dimwishlist:item=4248569242&perks=1840239774,106909392,1168162263,588594999
 dimwishlist:item=4248569242&perks=839105230,106909392,1168162263,588594999
 dimwishlist:item=4248569242&perks=4090651448,106909392,1168162263,588594999
-
-
-// Heritage
-//notes:pandapaxxy (Controller / PvP): "In PvP without Quickdraw you're really missing a ton. Gunnora's Axe and Blasphemer both got sunset but have better perk pools for PvP. Opening shot is really nice to have but not a must. Quickdraw is. You can certainly make a "Quickdraw" feel with high handling. You won't need to increase the range because Heritage is over the 65 range cap of slugs. A let down for a good slug replacement." Recommended MW - Handling.|tags:controller,pvp
-
 
 // Succession
 //notes:pandapaxxy (M+KB / PvE): "Succession looks to take over for Bite of the Fox or the Long Shadow. Unfortunately it cannot succeed them  [...] For PvE you really want the new reconstruction perk. If you have a mag extension, backup mag and reconstruction you can potentially have a 10 shot sniper with the highest damage per shot. Combine that with vorpal weapon and you could really tear into bosses from afar." Recommended MW - Reload.|tags:mkb,pve
@@ -9645,22 +9268,6 @@ dimwishlist:item=4248569242&perks=4090651448,106909392,1168162263,2726471870
 dimwishlist:item=4248569242&perks=1840239774,1087426260,1168162263,2726471870
 dimwishlist:item=4248569242&perks=4090651448,1087426260,1168162263,2726471870
 
-// Heritage
-//notes:pandapaxxy (Controller / PvP): "In PvP without Quickdraw you're really missing a ton. Gunnora's Axe and Blasphemer both got sunset but have better perk pools for PvP. Opening shot is really nice to have but not a must. Quickdraw is. You can certainly make a "Quickdraw" feel with high handling. You won't need to increase the range because Heritage is over the 65 range cap of slugs. A let down for a good slug replacement." Recommended MW - Handling.|tags:controller,pvp
-
-
-// Succession
-//notes:pandapaxxy (Controller / PvE): "Unfortunately it handles like a brick and the only way to make that better is to heavily invest in handling. Fluted Barrel is almost the only option for it to be competitive like Bite of the Fox and with a worse perk pool (no opening shot, no kill clip) it is essentially a slightly better but also slightly worse Long Walk. No quickdraw I think really hurts this sniper. [...] the only roll to really keep an eye out for is reconstruction and vorpal weapon. Beef up the magazine and let reconstruction take the wheel. Vorpal weapon with that beefier magazine can let you really lay into those bosses." Recommended MW - Reload.|tags:controller,pve
-
-
-// Succession
-//notes:pandapaxxy (Controller / PvP): "Unfortunately it handles like a brick and the only way to make that better is to heavily invest in handling. Fluted Barrel is almost the only option for it to be competitive like Bite of the Fox and with a worse perk pool (no opening shot, no kill clip) it is essentially a slightly better but also slightly worse Long Walk. No quickdraw I think really hurts this sniper." Recommended MW - Handling.|tags:controller,pvp
-
-
-// Posterity
-//notes:pandapaxxy (Controller / PvE): "180s have not really been meta since the howl twins and that was definitely an exception. For PvE I find their damage per shot to be really poor and the lower mag on Posterity compared to something like Malfeasance doesn’t do it justice. Rapid hit and rampage are certainly the go to and reconstruction while neat won’t really work on a weapon you’re going to want to use more often." Recommended MW - Reload.|tags:controller,pve
-
-
 // Posterity
 //notes:pandapaxxy (Controller / PvP): "For PvP they have a 1 second flat ttk. While their ease of use and recoil are easy to manage so is Luna’s Howl and that has the same ttk as Ace of Spades or any of the now 140 hand cannons. The 1.0s flat is just a tad too slow compared to any of the meta hand cannons." Recommended MW - Stability.|tags:controller,pvp
 dimwishlist:item=3281285075&perks=1840239774,3142289711,3436462433,47981717
@@ -9752,20 +9359,6 @@ dimwishlist:item=1392919471&perks=1392496348,3142289711,2450788523,47981717
 dimwishlist:item=1392919471&perks=1840239774,3142289711,2450788523,47981717
 dimwishlist:item=1392919471&perks=1392496348,106909392,2450788523,47981717
 dimwishlist:item=1392919471&perks=1840239774,106909392,2450788523,47981717
-
-
-
-// Bequest
-//notes:pandapaxxy (Controller / PvE): "Bequest is just a worse Falling Guillotine. For PvE you want to maximize damage per swing via jagged edge. Whether you really want maximum swing time with swordmaster’s guard or a more relaxed neutral sword with burst guard is up to you. Relentless strikes is by far the best in slot, but thresh is a very very close second." Recommended MW - Impact.|tags:controller,pve
-
-
-// Bequest
-//notes:pandapaxxy (Controller / PvP): "For PvP just use Black Talon and make both our lives easier." Recommended MW - Impact.|tags:controller,pvp
-
-
-// Commemoration
-//notes:pandapaxxy (Controller / PvE): "For PvE the easy answer is feeding frenzy and rampage. Tried and true from Hammerhead. But another option is Reconstruction and dragonfly. Dragonfly was exclusive to this season’s Thermal Erosion but on an adaptive frame machine gun means getting dragonfly to proc is far easier. Reconstruction coupled with a mag extension can mean you can use Commemoration as your primary. Throw in machine gun finders and weapons with lead from gold and you won’t need a primary." Recommended MW - Reload.|tags:controller,pve
-
 
 // Commemoration
 //notes:pandapaxxy (Controller / PvP): "For PvP you’re going to want a mix of stability and range. Smallbore provides just that. The best benefit from your mag and masterwork comes in the form of a stability masterwork and accurized rounds. Dynamic sway reduction since the buff is the best choice for increasing your accuracy. Since we don’t have quickdraw that means surplus can give us a very close feel. Granted you need to have all three of your abilities up to have the best buff it can still give you enough handling to be noticeable." Recommended MW - Stability.|tags:controller,pvp
@@ -11276,12 +10869,6 @@ dimwishlist:item=569799273&perks=3666208348,2349202967,2590710093,3016987351
 // u/pandapaxxy 's Penumbra weapons breakdown - PvE edition
 // https://docs.google.com/spreadsheets/d/1wZkZCt6YeMEkZ2-SxyLCUECVP_o_1wgsRPiC2LblkAM/edit#gid=0
 
-//Revoker
-
-//Hush
-
-//Wendigo GL3
-
 //Gahlran's Right Hand
 dimwishlist:item=1286686760&perks=1840239774,1561002382,1168162263,2458213969
 dimwishlist:item=1286686760&perks=4090651448,1561002382,1168162263,2458213969
@@ -12133,10 +11720,6 @@ dimwishlist:item=136525518&perks=1844523823,3796465595,3300816228,3523296417
 dimwishlist:item=136525518&perks=1441682018,3796465595,3300816228,3523296417
 dimwishlist:item=136525518&perks=1478423395,3796465595,3300816228,3523296417
 
-//Death's Razor
-
-//Goldtusk
-
 //Throne-Cleaver
 dimwishlist:item=569799273&perks=436053704,2349202967,818211479,1685431615
 dimwishlist:item=569799273&perks=938542991,2349202967,818211479,1685431615
@@ -12556,10 +12139,6 @@ dimwishlist:item=1789347249&perks=3250034553,1968497646,1890422124,3425386926
 
 //trust (masterworked)
 dimwishlist:item=4077196130&perks=1482024992,679225683,3096702027,3038247973
-
-//also trust? (mw)
-
-//trust
 
 //and trust
 dimwishlist:item=4077196130&perks=3250034553,3142289711,1168162263,3425386926
@@ -18176,7 +17755,7 @@ dimwishlist:item=686951703&perks=1392496348,1431678320,2010801679,247725512
 
 //long shadow
 //notes:Cry - PvE pick
-dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728#notes:Cry pick
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728#notes:Cry pick MW:handeling
 
 //bite of the fox
 //notes:PandaPaxxy - PvE pick
@@ -19870,63 +19449,6 @@ dimwishlist:item=686951703&perks=1840239774,679225683,1168162263,247725512
 dimwishlist:item=686951703&perks=839105230,679225683,1168162263,247725512
 dimwishlist:item=686951703&perks=1392496348,679225683,1168162263,247725512
 
-//long shadow (pvp)
-//notes:PandaPaxxy - PvP pick
-dimwishlist:item=3745990145&perks=893526892,4134353779,957782887,588594999
-dimwishlist:item=3745990145&perks=893526893,4134353779,957782887,588594999
-dimwishlist:item=3745990145&perks=893526892,3230963543,957782887,588594999
-dimwishlist:item=3745990145&perks=893526893,3230963543,957782887,588594999
-dimwishlist:item=3745990145&perks=893526892,106909392,957782887,588594999
-dimwishlist:item=3745990145&perks=893526893,106909392,957782887,588594999
-dimwishlist:item=3745990145&perks=893526892,4134353779,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526893,4134353779,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526892,3230963543,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526893,3230963543,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526892,106909392,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526893,106909392,4071163871,588594999
-dimwishlist:item=3745990145&perks=893526892,4134353779,280464955,588594999
-dimwishlist:item=3745990145&perks=893526893,4134353779,280464955,588594999
-dimwishlist:item=3745990145&perks=893526892,3230963543,280464955,588594999
-dimwishlist:item=3745990145&perks=893526893,3230963543,280464955,588594999
-dimwishlist:item=3745990145&perks=893526892,106909392,280464955,588594999
-dimwishlist:item=3745990145&perks=893526893,106909392,280464955,588594999
-dimwishlist:item=3745990145&perks=893526892,4134353779,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526893,4134353779,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526892,3230963543,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526893,3230963543,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526892,106909392,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526893,106909392,957782887,1168162263
-dimwishlist:item=3745990145&perks=893526892,4134353779,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526893,4134353779,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526892,3230963543,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526893,3230963543,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526892,106909392,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526893,106909392,4071163871,1168162263
-dimwishlist:item=3745990145&perks=893526892,4134353779,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526893,4134353779,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526892,3230963543,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526893,3230963543,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526892,106909392,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526893,106909392,280464955,1168162263
-dimwishlist:item=3745990145&perks=893526892,4134353779,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526893,4134353779,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526892,3230963543,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526893,3230963543,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526892,106909392,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526893,106909392,957782887,3425386926
-dimwishlist:item=3745990145&perks=893526892,4134353779,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526893,4134353779,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526892,3230963543,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526893,3230963543,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526892,106909392,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526893,106909392,4071163871,3425386926
-dimwishlist:item=3745990145&perks=893526892,4134353779,280464955,3425386926
-dimwishlist:item=3745990145&perks=893526893,4134353779,280464955,3425386926
-dimwishlist:item=3745990145&perks=893526892,3230963543,280464955,3425386926
-dimwishlist:item=3745990145&perks=893526893,3230963543,280464955,3425386926
-dimwishlist:item=3745990145&perks=893526892,106909392,280464955,3425386926
-dimwishlist:item=3745990145&perks=893526893,106909392,280464955,3425386926
-
 //bite of the fox (pvp)
 //notes:PandaPaxxy - PvP pick
 dimwishlist:item=3169616514&perks=1840239774,4134353779,957782887,588594999
@@ -20721,8 +20243,6 @@ dimwishlist:item=3704653637&perks=938542991,2349202967,354401740,3708227201
 // pandapaxxy's season of the drifter picks - pvp edition
 // sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
 
-//Oxygen SR3
-
 
 //The Recluse
 dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
@@ -21393,12 +20913,6 @@ dimwishlist:item=715338174&perks=3666208348,599007201,2590710093,818211479
 
 // pandapaxxy's season of the drifter picks - pve edition
 // sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
-
-//Oxygen SR3
-
-//The Recluse
-
-//21% Delirium
 
 //Gnawing Hunger
 dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3425386926
@@ -22314,47 +21828,6 @@ dimwishlist:item=715338174&perks=938542991,2349202967,2590710093,1685431615
 dimwishlist:item=715338174&perks=436053704,52780822,2590710093,1685431615
 dimwishlist:item=715338174&perks=938542991,52780822,2590710093,1685431615
 
-// armor from u/HavocsCall
-// https://github.com/HavocsCall/DIMArmorSets/blob/master/Armor%20Wish%20List.txt
-
-//-----Helmet-----
-
-//Sniper Reserves and Remote Connection, Precision Weapon Targeting, Sniper Targeting, or Enhanced Sniper Targeting
-
-//Fusion Rifle Reserves and Light Reactor, Fusion Rifle Targeting, or Scatter Projectile Targeting
-
-//Linear Fusion Rifle Reserves and Precision Weapon Targeting, Linear Fusion Targeting or Enhanced Linear Fusion Targeting
-
-//Heavy Ammo Finder and Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
-
-//Grenade Launcher Reserves and Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
-
-//Rocket Launcher Reserves and Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
-
-//Shotgun Reserves and Pump Action, Ashes to Assets, Enhanced Ashes to Assets, Heavy Lifting, Enhanced Heavy Lifting, or Hands-On
-
-//Machine Gun Reserves and Machine Gun Targeting
-
-
-//-----Gauntlets-----
-
-//Impact Induction or Enhanced Impact Induction and all of the Scavengers except sword
-
-
-//-----Chest-----
-
-//Unflinching Rifle Aim, Unflinching Light Arms Aim, Unflinching Machine Gun, or Unflinching Grenade Launcher Aim and Special Ammo Finder
-
-
-//-----Legs-----
-
-//Perpetuation, Traction, Bomber, Outreach, Dynamo, Enhanced Bomber, or Distribution and Special Ammo Finder
-
-
-//-----Class Item-----
-
-//Recuperation and all of the scavengers/Reserves except sword
-
 title: u/pandapaxxy's Shadowkeep/Season of Undying PvE recommendations
 description: Translated from https://docs.google.com/spreadsheets/d/1zuFDr31U9SQbhldpbl_JFxVGw6VfXophMEpv_OfDtJQ/edit#gid=0 by your old pal 48klocs
 
@@ -22466,10 +21939,6 @@ dimwishlist:item=3924212056&perks=4090651448,106909392,1168162263,3523296417#not
 dimwishlist:item=3924212056&perks=3250034553,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3924212056&perks=1482024992,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3924212056&perks=4090651448,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-
-//Loud Lullaby (version 2)
-
-//One Small Step (version 1)
 
 //One Small Step (version 2)
 dimwishlist:item=1016668089&perks=1482024992,106909392,1631667848,2679249093#notes:pandapaxxy Shadowkeep PvE
@@ -22615,8 +22084,6 @@ dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,1015611457#not
 dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,1015611457#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,2387244414#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,2387244414#notes:pandapaxxy Shadowkeep PvE
-
-//Tranquility (version 1)
 
 //Tranquility (version 2)
 dimwishlist:item=1645386487&perks=1840239774,1087426260,1168162263,1771339417#notes:pandapaxxy Shadowkeep PvE
@@ -22840,10 +22307,6 @@ dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3400784728#no
 dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
 
-//Arc Logic (version 2)
-
-//Dream Breaker (version 1)
-
 //Dream Breaker (version 2)
 dimwishlist:item=2931957300&perks=1840239774,1687452232,3300816228,1600092898#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2931957300&perks=4090651448,1687452232,3300816228,1600092898#notes:pandapaxxy Shadowkeep PvE
@@ -22899,8 +22362,6 @@ dimwishlist:item=2931957300&perks=1840239774,2680121939,4071163871,1683379515#no
 dimwishlist:item=2931957300&perks=4090651448,2680121939,4071163871,1683379515#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2931957300&perks=1840239774,689005463,4071163871,1683379515#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2931957300&perks=4090651448,689005463,4071163871,1683379515#notes:pandapaxxy Shadowkeep PvE
-
-//Every Waking Moment (version 1)
 
 //Every Waking Moment (version 2)
 dimwishlist:item=4277547616&perks=1840239774,2420895100,1168162263,4082225868#notes:pandapaxxy Shadowkeep PvE
@@ -23032,8 +22493,6 @@ dimwishlist:item=208088207&perks=1840239774,1561002382,280464955,1015611457#note
 dimwishlist:item=208088207&perks=839105230,1087426260,280464955,1015611457#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=208088207&perks=1840239774,1087426260,280464955,1015611457#notes:pandapaxxy Shadowkeep PvE
 
-//Premonition (version 2)
-
 //Subjunctive
 dimwishlist:item=2663204025&perks=1840239774,1885400500,1168162263,3708227201#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2663204025&perks=4090651448,1885400500,1168162263,3708227201#notes:pandapaxxy Shadowkeep PvE
@@ -23084,8 +22543,6 @@ dimwishlist:item=2663204025&perks=1840239774,1087426260,706527188,2458213969#not
 dimwishlist:item=2663204025&perks=4090651448,1087426260,706527188,2458213969#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=2663204025&perks=1482024992,1087426260,706527188,2458213969#notes:pandapaxxy Shadowkeep PvE
 
-//A Fine Memorial (version 1)
-
 //A Fine Memorial (version 2)
 dimwishlist:item=3325778512&perks=1840239774,1561002382,706527188,3708227201#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3325778512&perks=839105230,1561002382,706527188,3708227201#notes:pandapaxxy Shadowkeep PvE
@@ -23130,8 +22587,6 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3425386926#note
 dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3523296417#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
 
-//Love and Death (version 1)
-
 //Love and Death (version 2)
 dimwishlist:item=3690523502&perks=981914802,3301904089,2869569095,706527188#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3690523502&perks=1478423395,3301904089,2869569095,706527188#notes:pandapaxxy Shadowkeep PvE
@@ -23157,8 +22612,6 @@ dimwishlist:item=3690523502&perks=981914802,1771897777,4071163871,2888557110#not
 dimwishlist:item=3690523502&perks=1478423395,1771897777,4071163871,2888557110#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3690523502&perks=981914802,332133599,4071163871,2888557110#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3690523502&perks=1478423395,332133599,4071163871,2888557110#notes:pandapaxxy Shadowkeep PvE
-
-//Night Terror (version 1)
 
 //Night Terror (version 2)
 dimwishlist:item=3870811754&perks=3666208348,2349202967,1749209109,3913600130#notes:pandapaxxy Shadowkeep PvE
@@ -23190,15 +22643,6 @@ dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3425386926#not
 
 title:u/Mercules904's Sundial weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
-
-// Breachlight
-//notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
-
-// Breachlight
-//notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
-
-// Steelfeather Repeater (PvP)
-//notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
 
 // Steelfeather Repeater (PvP)
 //notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
@@ -23256,20 +22700,11 @@ dimwishlist:item=1251729046&perks=4090651448,3230963543,1820235745,2458213969
 dimwishlist:item=1251729046&perks=1840239774,3230963543,1820235745,2458213969
 dimwishlist:item=1251729046&perks=3250034553,3230963543,1820235745,2458213969
 
-// Steelfeather Repeater (PvE)
-//notes:Mercules904 (okay PvE) - "If you do want to use this gun in PvE instead of the Crucible (which I think is the way to go) [...] this might help convince some players to try to bring ARs back to prevalence a little bit in PvE."
-
 // Patron of Lost Causes
 //notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
 dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3038247973
 dimwishlist:item=2723241847&perks=3661387068,3177308360,247725512,3038247973
 dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3038247973
-
-// Patron of Lost Causes
-//notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
-
-// Gallant Charge (PvP)
-//notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
 
 // Gallant Charge (PvP)
 //notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
@@ -23285,15 +22720,6 @@ dimwishlist:item=1706206669&perks=3661387068,1687452232,3300816228,4082225868
 dimwishlist:item=1706206669&perks=1392496348,1687452232,1631667848,4082225868
 dimwishlist:item=1706206669&perks=3661387068,1687452232,1631667848,4082225868
 
-// Gallant Charge (PvE)
-//notes:Mercules904 (not great PvE) - "In PvE, unfortunately, this gun seems like almost every perk on it is pushing it in the "add clear" direction, and high-impacts just don't excel there. You'd be better off using something with faster charge time and higher inventory to wipe out the red bars [...]"
-
-// Martyr's Retribution
-//notes:Mercules904 (pretty good) - "I personally find Martyr's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
-
-// Martyr's Retribution
-//notes:Mercules904 (pretty good) - "I personally find Marty's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
-
 // Line in the Sand (PvP)
 //notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
 dimwishlist:item=946443267&perks=202670084,689005463,588594999,1600092898
@@ -23308,12 +22734,6 @@ dimwishlist:item=946443267&perks=1840239774,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=839105230,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=1482024992,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=4090651448,2969185026,588594999,1600092898
-
-// Line in the Sand (PvP)
-//notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
-
-// Line in the Sand (PvE)
-//notes:Mercules904 (pretty good PvE) - "For PvE is really where I'm excited about this gun. [...] It will put out a decent amount of damage, and if LFRs as a whole ever get buffed would be top tier."
 
 // Line in the Sand (PvE)
 //notes:Mercules904 (pretty good PvE) - "For PvE is really where I'm excited about this gun. [...] It will put out a decent amount of damage, and if LFRs as a whole ever get buffed would be top tier."
@@ -23345,15 +22765,9 @@ dimwishlist:item=188882152&perks=3151536500,3230963543,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536501,3230963543,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536503,3230963543,1168162263,1015611457
 
-// Last Perdition (controller)
-//notes:Mercules904 (pretty good controller) - "[...] Last Perdition is basically Bygones but Void, with sights instead of barrels! [...] slightly better stability, and slightly worse range and recoil direction."
-
 // Black Scorpion-4sr (M/KB)
 //notes:Mercules904 (pretty good M/KB) - "Outside of Bygones, this is actually my favorite primary weapon."
 dimwishlist:item=525750263&perks=1467527085,3142289711,588594999,3425386926
-
-// Black Scorpion-4sr (controller)
-//notes:Mercules904 (pretty good controller) - "Outside of Bygones, this is actually my favorite primary weapon."
 
 title:u/pandapaxxy's Season of the Worthy Trials Weapons, M+KB + Controller edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqppm/trials_weapons_mnk/
@@ -24025,16 +23439,6 @@ dimwishlist:item=1697682876&perks=1300023272,791862061,706527188,3511092054
 dimwishlist:item=1697682876&perks=1300023272,679225683,706527188,3511092054
 dimwishlist:item=1697682876&perks=1300023272,106909392,706527188,3511092054
 
-// Eye of Sol
-//notes:pandapaxxy (PvE / Controller): "The Trials sniper is alright at best. It won’t beat Revoker over the best in slot, and can’t really beat Beloved for best in its class." Recommended MW - Reload.|tags:controller,pve
-
-
-// Eye of Sol
-//notes:pandapaxxy (PvP / Controller): "The Trials sniper is alright at best. It won’t beat Revoker over the best in slot, and can’t really beat Beloved for best in its class." Recommended MW - Handling.|tags:controller,pvp
-
-// The Scholar
-//notes:pandapaxxy (PvE / Controller): "The good news is that this is the only 150 that can roll Quickdraw. [...] The base 37 handling is just abysmal." Recommended MW - Reload.|tags:controller,pve
-
 // The Scholar
 //notes:pandapaxxy (PvP / Controller): "The good news is that this is the only 150 that can roll Quickdraw. [...] The base 37 handling is just abysmal." Recommended MW - Stability or Handling.|tags:controller,pvp
 dimwishlist:item=2478792241&perks=1392496348,1885400500,706527188,1546637391
@@ -24053,15 +23457,6 @@ dimwishlist:item=2478792241&perks=1392496348,1885400500,706527188,3511092054
 dimwishlist:item=2478792241&perks=1392496348,1561002382,706527188,3511092054
 dimwishlist:item=2478792241&perks=1392496348,1885400500,47981717,3511092054
 dimwishlist:item=2478792241&perks=1392496348,1561002382,47981717,3511092054
-
-// Exile's Curse
-//notes:pandapaxxy (PvE / Controller): "Fusions also got hit with a nerf in this past patch. [...]  I want to say that Particle Repeater for more consistent bolt spreads will be helpful in getting consistent kills." Recommended MW - Reload.|tags:controller,pve
-
-// Exile's Curse
-//notes:pandapaxxy (PvP / Controller): "Fusions also got hit with a nerf in this past patch. [...]  I want to say that Particle Repeater for more consistent bolt spreads will be helpful in getting consistent kills." Recommended MW - Stability or Handling.|tags:controller,pvp
-
-// The Summoner
-//notes:pandapaxxy (PvE / Controller): "The Summoner is the next hottest thing with this patch. [...] Slap on a Counterbalance mod and you’ll be freeing up your exotic slot." Recommended MW - Reload.|tags:controller,pve
 
 // The Summoner
 //notes:pandapaxxy (PvP / Controller): "The Summoner is the next hottest thing with this patch. [...] Slap on a Counterbalance mod and you’ll be freeing up your exotic slot." Recommended MW - Stability or Handling.|tags:controller,pvp
@@ -24128,12 +23523,6 @@ dimwishlist:item=1907698332&perks=1392496348,1561002382,3643424744,1264398905
 dimwishlist:item=1907698332&perks=3661387068,3230963543,3643424744,1264398905
 dimwishlist:item=1907698332&perks=1392496348,3230963543,3643424744,1264398905
 dimwishlist:item=1907698332&perks=1482024992,3230963543,3643424744,1264398905
-
-// Tomorrow's Answer
-//notes:pandapaxxy (PvE / Controller): "Nothing crazy about it [...] but cluster bombs to get cheeky corner kills is something I cannot get enough of." Recommended MW - Reload.|tags:controller,pve
-
-// Tomorrow's Answer
-//notes:pandapaxxy (PvP / Controller): "Nothing crazy about it [...] but cluster bombs to get cheeky corner kills is something I cannot get enough of." Recommended MW - Blast Radius.|tags:controller,pvp
 
 title:u/pandapaxxy's Season of the Worthy Faction Weapons, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqm7w/faction_weapons_mnk/
@@ -25405,9 +24794,6 @@ title:u/pandapaxxy's Season of the Worthy Faction Weapons, Controller edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqnqd/faction_weapons_controller/
 
 // Dire Promise
-//notes:pandapaxxy (Controller / PvE): "While I’m not a very big fan of the break action reload it is a welcome change to the SpareBender meta we’ve had for a while." Recommended MW - Reload.|tags:controller,pve
-
-// Dire Promise
 //notes:pandapaxxy (Controller / PvP): "In terms of PvP I believe that Dire can compete with Spare Rations. [...] It can also roll the insane combo of both Opening Shot and Rangefinder." Recommended MW - Stability.|tags:controller,pvp
 dimwishlist:item=2742838701&perks=1926090092,1885400500,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090092,3230963543,47981717,2846385770
@@ -25436,10 +24822,6 @@ dimwishlist:item=2742838701&perks=1926090092,1885400500,3643424744,4082225868
 dimwishlist:item=2742838701&perks=1926090092,3230963543,3643424744,4082225868
 
 // Enigma's Draw
-//notes:pandapaxxy (Controller / PvE): "sidearms in PvE have always been in a weird spot. [...] Breachlight was a breath of fresh air in terms of meta game, but I don’t think Enigma’s Draw will outclass it any time soon." Recommended MW - Reload.|tags:controller,pve
-
-
-// Enigma's Draw
 //notes:pandapaxxy (Controller / PvP): "Lonesome is the direct comparison and I find the lethality perks on Lonesome to be better [...] Definitely worth a pick up if you enjoy the precision class, otherwise I’d hold off on trying to legendary farm for one." Recommended MW - Stability.|tags:controller,pvp
 dimwishlist:item=1723380073&perks=445755705,1885400500,2387244414,247725512
 dimwishlist:item=1723380073&perks=445755705,1561002382,2387244414,247725512
@@ -25464,9 +24846,6 @@ dimwishlist:item=1723380073&perks=445755705,1087426260,47981717,2846385770
 dimwishlist:item=1723380073&perks=445755705,1885400500,4267945040,2846385770
 dimwishlist:item=1723380073&perks=445755705,1561002382,4267945040,2846385770
 dimwishlist:item=1723380073&perks=445755705,1087426260,4267945040,2846385770
-
-// Escape Velocity
-//notes:pandapaxxy (Controller / PvE): "A Lightweight Frame smg that would directly compete with Recluse (but kinetic). [...]  do note it will struggle in higher activities against beefier targets." Recommended MW - Reload.|tags:controller,pve
 
 // Escape Velocity
 //notes:pandapaxxy (Controller / PvP): "In PvP you are surefire to zoom around the map with the +2 mobility and freedom to use any energy weapon you’d like [...] I’d still opt for Overflow on this as if you pair Escape Velocity with a special weapon" Recommended MW - Stability or Handling.|tags:controller,pvp
@@ -25495,23 +24874,6 @@ dimwishlist:item=1786797708&perks=2209280307,3142289711,2387244414,3511092054
 dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,3511092054
 dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,3511092054
 dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,3511092054
-
-// True Prophecy
-//notes:pandapaxxy (Controller / PvE): "True Prophecy is a great gun, nothing amazing about it, but definitely great for PvE. Overflow on a hand cannon has always been great, and this archetype needs it." Recommended MW - Reload or Handling.|tags:controller,pve
-
-
-// True Prophecy
-//notes:pandapaxxy (Controller / PvP): "In PvP High-Impact Frame hand cannons have never been truly meta. Especially since the range nerf last season they have been a husk of their former self. True Prophecy does come with the insane combo of Rangefinder and X Payload (Timed or Explosive) possibly giving it the highest 3 tap range of any hand cannon, but that comes at a high cost" Recommended MW - Handling or Stability.|tags:controller,pvp
-
-// Distant Tumulus
-//notes:pandapaxxy (Controller / PvE): "in PvE I believe that Distant Tumulus can hold its own. I tend to recommend Adaptive or Aggressive Frame snipers for solo PvE due to their better perk pools Distant Tumulus also has a great set of perks. A magazine boosting perk in combination with Clown Cartridge can give you one of the best burst DPS snipers in the game." Recommended MW - Reload.|tags:controller,pve
-
-// Distant Tumulus
-//notes:pandapaxxy (Controller / PvP): "In PvP you have the choice of Snapshot Sights or Quickdraw which is great. But so does Apostate. Without the utility of Box Breathing for shutting down supers I don’t think this is a great option." Recommended MW - Handling or Range.|tags:controller,pvp
-
-
-// Jian 7 Rifle
-//notes:pandapaxxy (Controller / PvE): "Jian 7 Rifle is the only pulse rifle to get Disruption Break which puts it above the likes of Adhortative, and Bygones. While pulses didn’t get anti-barrier rounds this time around there are still a fair bit of arc shields which means Jian 7 will have its place." Recommended MW - Reload.|tags:controller,pve
 
 // Jian 7 Rifle
 //notes:pandapaxxy (Controller / PvP): "In PvP if you already have a good adaptive pulse rifle then there is absolutely no reason to grind another [...] Firmly Planted is amazing even on MnK, it allows you to completely disregard stability and bump up your range as much as possible. Which is possible through perks like Rangefinder." Recommended MW - Stability or Handling.|tags:controller,pvp
@@ -25543,13 +24905,6 @@ dimwishlist:item=1162247618&perks=3151536501,3230963543,4267945040,3425386926
 dimwishlist:item=1162247618&perks=3151536500,3230963543,4267945040,3425386926
 dimwishlist:item=1162247618&perks=360593481,3230963543,4267945040,3425386926
 
-// Timelines' Vertex
-//notes:pandapaxxy (Controller / PvE): "It won’t kill groups like Loaded Question but it will take out shields and serve other utilities." Recommended MW - Reload.|tags:controller,pve
-
-
-// Timelines' Vertex
-//notes:pandapaxxy (Controller / PvP): "In PvP the perk to go after is Firmly Planted. It doesn’t do anything flashy but it will make your weapon so much more consistent. Speaking of consistency I’d also recommend stability on all your perks instead of range." Recommended MW - Stability or Handling.|tags:controller,pvp
-
 // Honor's Edge
 //notes:pandapaxxy (Controller / PvE): "OH BOY, so swords got a big overhaul at the beginning of this season [...] According to /user/IAMADragonAMAA and their sword damage calculations found here the best sword “barrels” are Jagged Edge for the best DPS and Enduring Blade for the best total damage." Recommended MW - Impact.|tags:controller,pve
 dimwishlist:item=2857348871&perks=938542991,269888150,1749209109,3708227201
@@ -25568,16 +24923,6 @@ dimwishlist:item=2857348871&perks=938542991,52780822,1749209109,2244851822
 dimwishlist:item=2857348871&perks=938542991,269888150,2590710093,2244851822
 dimwishlist:item=2857348871&perks=938542991,3625355092,2590710093,2244851822
 dimwishlist:item=2857348871&perks=938542991,52780822,2590710093,2244851822
-
-
-// Honor's Edge
-//notes:pandapaxxy (Controller / PvP): "Swords are okay in PvP, I’d advise against them but increase the impact for better fighting supers." Recommended MW - Impact.|tags:controller,pvp
-
-// Interference VI
-//notes:pandapaxxy (Controller / PvE): "You can opt for the most damage by going with Full Court and standing way, way back; coupled with Clown Cartridge for more damage per mag; and Spike Grenades for the enhanced impact damage. If you go this route you want to bump up your blast radius as much as possible. If instead you go for just Spike Grenades then you want as low blast radius as possible." Recommended MW - Blast Radius or Velocity*.|tags:controller,pve
-
-// Interference VI
-//notes:pandapaxxy (Controller / PvP): "In terms of PvP you might be able to do some funny things with Swashbuckler 5x, but I think this will be more of a novelty than a utility." Recommended MW - Blast Radius.|tags:controller,pvp
 
 title:u/pandapaxxy's Season of the Worthy Seraph Weapons, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqp0j/seraph_weapons_mnk/
@@ -28982,11 +28327,6 @@ dimwishlist:item=3143732432&perks=1482024992,3230963543,3643424744,699525795
 dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,699525795
 dimwishlist:item=3143732432&perks=1840239774,3230963543,3643424744,699525795
 
-
-// Whispering Slab
-//notes:pandapaxxy (PvE / Controller): "while being a lightweight frame, bows did receive a 10% damage bonus in PvE. Game breaking? Meta shattering? Probably not" Recommended MW: Handling.|tags:pve,controller
-
-
 // Whispering Slab
 //notes:pandapaxxy (PvP / Controller): "In PvP lightweight bows need a touch to make them more competitive, but the very fast draw time with all the bonuses can surprise someone with peak shooting and full draw." Recommended MW: Draw Time.|tags:pvp,controller
 dimwishlist:item=211938782&perks=4067834857,3429800428,201365942,4082225868
@@ -29066,7 +28406,6 @@ dimwishlist:item=3616586446&perks=3250034553,1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=839105230,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,3708227201
-
 
 // First In, Last Out
 //notes:pandapaxxy (PvP / Controller): "In PvP FILO just doesn’t compare to Blasphemer or either of its energy brethren for one reason and more importantly one perk: quickdraw. Without quickdraw FILO just doesn’t have enough going for it that any of the other shotguns can’t do." Recommended MW: Handling.|tags:pvp,controller
@@ -29403,14 +28742,6 @@ dimwishlist:item=407621213&perks=1844523823,3373736292,4071163871,1683379515
 dimwishlist:item=407621213&perks=1441682018,3373736292,4071163871,1683379515
 dimwishlist:item=407621213&perks=1478423395,3373736292,4071163871,1683379515
 
-// Temptation's Hook
-//notes:pandapaxxy (PvE / Controller): "I’m so happy Temptation’s Hook was added to the game. [...] Being able to tailor a previously exotic perk to how you want it will almost always be the right move. You could try going for maximum damage through 5x whirlwind blade and then heavy swinging against ranged majors and ultras. Or going for consistent damage with vorpal. You can choose for set up or consistency." Recommended MW: Impact.|tags:pve,controller
-
-
-// Temptation's Hook
-//notes:pandapaxxy (PvP / Controller): "In PvP I can imagine a bunch of hilarious antics with this sword. Tireless blade is definitely the call as every other powered kill rewards ammo, and that includes the ranged attack. Vorpal weapon could see some use against roaming supers depending on how the damage is." Recommended MW: Impact.|tags:pvp,controller
-
-
 // Death Adder
 //notes:pandapaxxy (PvE / Controller): "Death Adder has feeding frenzy but has the potential for better add clear through dragonfly. It won’t have the highest damage output but being able to clear rooms of enemies easier and with less bullets cannot be overstated. [...] It’s not necessarily a better Recluse, but it’s certainly more flexible." Recommended MW: Reload.|tags:pve,controller
 dimwishlist:item=2742490609&perks=1392496348,1087426260,2779035018,2848615171
@@ -29604,10 +28935,6 @@ dimwishlist:item=2222560548&perks=1392496348,3177308360,1359896290,3523296417
 
 
 // IKELOS_SR_v1.0.2
-//notes:pandapaxxy (PvE / Controller): "Unfortunately the Ikelos sniper is’t as good as it was pre-box breathing nerf. It has never been the same since. You can do some seriously good dps with fourth time’s the charm and high-impact reserves, but you won’t beat out a firing line sole and you’ll have to hit max rpm which is VERY hard to do." Recommended MW: Reload.|tags:pve,controller
-
-
-// IKELOS_SR_v1.0.2
 //notes:pandapaxxy (PvP / Controller): "In PvP you can do well with this rifle, but after the 140 nerf you don’t really see these guns anymore. Range with quickdraw is the goal, but if you want box breathing instead then you want to bump up the handling as much as possible instead." Recommended MW: Range.|tags:pvp,controller
 dimwishlist:item=1253087083&perks=1482024992,1140096971,588594999,706527188
 dimwishlist:item=1253087083&perks=1482024992,3142289711,588594999,706527188
@@ -29711,19 +29038,6 @@ dimwishlist:item=3669616453&perks=1441682018,3796465595,2869569095,1275731761
 dimwishlist:item=3669616453&perks=1441682018,2985827016,2869569095,1275731761
 dimwishlist:item=3669616453&perks=1441682018,3796465595,3300816228,1275731761
 dimwishlist:item=3669616453&perks=1441682018,2985827016,3300816228,1275731761
-
-
-// Hoosegow
-//notes:pandapaxxy (PvP / Controller): "In PvP the fire and forget is valuable but the low ammo and potential to waste your heavy by missing over the very tried and true Wardcliff or Truth is hard to pass up. [...] I think it will be a decent pass until a buff." Recommended MW: Blast Radius.|tags:pvp,controller
-
-
-// Negative Space
-//notes:pandapaxxy (PvE / Controller): "Negative Space falls on the bad end of swords this season. [..] use either of the two other swords introduced this season." Recommended MW: Impact.|tags:pve,controller
-
-
-// Negative Space
-//notes:pandapaxxy (PvP / Controller): "Negative Space falls on the bad end of swords this season. [..] use either of the two other swords introduced this season." Recommended MW: Impact.|tags:pvp,controller
-
 
 // The Forward Path
 //notes:pandapaxxy (PvE / Controller): "In PvE you really just want to go for the tried and true reload and damage buffs, nothing crazy and really not worth investing time into the new perks for PvE." Recommended MW: Reload.|tags:pve,controller
@@ -30073,16 +29387,6 @@ dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,4082225868
 dimwishlist:item=1216130969&perks=3661387068,1561002382,2779035018,4082225868
 dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,4082225868
 dimwishlist:item=1216130969&perks=839105230,3230963543,2779035018,4082225868
-
-
-// Falling Guillotine
-//notes:pandapaxxy (PvE / Controller): "In PvE I would have loved to see Vorpal on this sword as well but I understand it might have made it the clear winner over other alternatives, but even just the tried and true whirlwind blade will do just fine." Recommended MW: Impact.|tags:pve,controller
-
-
-// Falling Guillotine
-//notes:pandapaxxy (PvP / Controller): "I definitely think this sword belongs in PvE over PvP but if you do manage to get a funny kill or multi with this sword please send the clip to me." Recommended MW: Impact.|tags:pvp,controller
-
-
 
 // Braytech Werewolf
 //notes:pandapaxxy (PvE / Controller): Recommended MW: Reload.|tags:pve,controller
@@ -30581,10 +29885,6 @@ dimwishlist:item=3924212056&perks=202670084,106909392,1168162263,3523296417#note
 dimwishlist:item=3924212056&perks=3250034553,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3924212056&perks=1467527085,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvP
 
-//Loud Lullaby (version 2)
-
-//One Small Step (version 1)
-
 //One Small Step (version 2)
 dimwishlist:item=1016668089&perks=1047830412,3142289711,706527188,47981717#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=1016668089&perks=1332244541,3142289711,706527188,47981717#notes:pandapaxxy Shadowkeep PvP
@@ -30688,8 +29988,6 @@ dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,1015611457#not
 dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,2387244414#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3535742959&perks=1840239774,2420895100,957782887,2387244414#notes:pandapaxxy Shadowkeep PvP
 
-//Tranquility (version 1)
-
 //Tranquility (version 2)
 dimwishlist:item=1645386487&perks=1840239774,106909392,2866798147,957782887#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=1645386487&perks=839105230,106909392,2866798147,957782887#notes:pandapaxxy Shadowkeep PvP
@@ -30767,10 +30065,6 @@ dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,2846385770#no
 dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-
-//Arc Logic (version 2)
-
-//Dream Breaker (version 1)
 
 //Dream Breaker (version 2)
 dimwishlist:item=2931957300&perks=839105230,2969185026,2846385770,1600092898#notes:pandapaxxy Shadowkeep PvP
@@ -30854,8 +30148,6 @@ dimwishlist:item=2931957300&perks=3250034553,3868766766,280464955,3425386926#not
 dimwishlist:item=2931957300&perks=839105230,1687452232,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2931957300&perks=1840239774,1687452232,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2931957300&perks=3250034553,1687452232,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
-
-//Every Waking Moment (version 1)
 
 //Every Waking Moment (version 2)
 dimwishlist:item=4277547616&perks=3250034553,1885400500,1168162263,4082225868#notes:pandapaxxy Shadowkeep PvP
@@ -31007,8 +30299,6 @@ dimwishlist:item=208088207&perks=839105230,1885400500,280464955,3523296417#notes
 dimwishlist:item=208088207&perks=1482024992,1885400500,280464955,3523296417#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=208088207&perks=4090651448,1885400500,280464955,3523296417#notes:pandapaxxy Shadowkeep PvP
 
-//Premonition (version 2)
-
 //Subjunctive
 dimwishlist:item=2663204025&perks=202670084,1561002382,706527188,4082225868#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2663204025&perks=1392496348,1561002382,706527188,4082225868#notes:pandapaxxy Shadowkeep PvP
@@ -31046,8 +30336,6 @@ dimwishlist:item=2663204025&perks=1482024992,1561002382,972757866,3425386926#not
 dimwishlist:item=2663204025&perks=202670084,1885400500,972757866,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2663204025&perks=1392496348,1885400500,972757866,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=2663204025&perks=1482024992,1885400500,972757866,3425386926#notes:pandapaxxy Shadowkeep PvP
-
-//A Fine Memorial (version 1)
 
 //A Fine Memorial (version 2)
 dimwishlist:item=3325778512&perks=1840239774,1561002382,706527188,1890422124#notes:pandapaxxy Shadowkeep PvP
@@ -31093,15 +30381,11 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3425386926#note
 dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3523296417#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvP
 
-//Love and Death (version 1)
-
 //Love and Death (version 2)
 dimwishlist:item=3690523502&perks=1844523823,409831596,2846385770,706527188#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3690523502&perks=1441682018,409831596,2846385770,706527188#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3690523502&perks=1844523823,1380253176,2846385770,706527188#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3690523502&perks=1441682018,1380253176,2846385770,706527188#notes:pandapaxxy Shadowkeep PvP
-
-//Night Terror (version 1)
 
 //Night Terror (version 2)
 dimwishlist:item=3870811754&perks=436053704,2349202967,2590710093,354401740#notes:pandapaxxy Shadowkeep PvP
@@ -31151,16 +30435,6 @@ dimwishlist:item=3369545945&perks=839105230,679225683,280464955,3425386926#notes
 
 title:u/Mercules904's Altars of Sorrow weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
-
-// Apostate (PvP)
-//notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
-
-// Apostate (PvP) [curated]
-//notes:Mercules904 (must have PvP/curated) - "Definitely rate this gun as a must have for PvP snipers."
-dimwishlist:item=2164448701&perks=1840239774,3142289711,3275789089,247725512
-
-// Blasphemer (PvP)
-//notes:Mercules904 (must have PvP) - "Highly recommend this weapon for anyone who loves the Chaperone but wants a legendary alternative, or just loves slug shotties in general, and the curated roll is pretty nearly perfect as well."
 
 // Heretic (PvP)
 //notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
@@ -31329,12 +30603,6 @@ dimwishlist:item=208088207&perks=3661387068,1561002382,1168162263,2848615171
 dimwishlist:item=208088207&perks=839105230,1087426260,1168162263,2848615171
 dimwishlist:item=208088207&perks=1840239774,1087426260,1168162263,2848615171
 dimwishlist:item=208088207&perks=3661387068,1087426260,1168162263,2848615171
-
-// Premonition (PvE)
-//notes:pandapaxxy (PvE): "Premonition is special in many ways. Being one of three pulses to roll Demolitionist, and the only high-impact frame to belong to the energy slot. Similar to how Blasphemer diversified your loadout as a shotgun Premonition also has the same effect" Recommended MW - Reload.
-
-// Premonition (PvP)
-//notes:pandapaxxy (PvP): "Premonition is special in many ways. Being one of three pulses to roll Demolitionist, and the only high-impact frame to belong to the energy slot. Similar to how Blasphemer diversified your loadout as a shotgun Premonition also has the same effect" Recommended MW - Range.
 
 // Premonition (PvP)
 //notes:pandapaxxy (PvP): "Premonition is special in many ways. Being one of three pulses to roll Demolitionist, and the only high-impact frame to belong to the energy slot. Similar to how Blasphemer diversified your loadout as a shotgun Premonition also has the same effect" Recommended MW - Range.
@@ -31609,12 +30877,6 @@ dimwishlist:item=2723241847&perks=3250034553,1087426260,4267945040,1774574192
 dimwishlist:item=2723241847&perks=1482024992,1087426260,4267945040,1774574192
 dimwishlist:item=2723241847&perks=4090651448,1087426260,4267945040,1774574192
 
-// Patron of Lost Causes  (PvE/M+KB)
-//notes:pandapaxxy (PvE / M+KB): "Not exactly ideal, but for specific builds or speed runs I can see this being a potential choice." Recommended MW - Reload.
-
-// Patron of Lost Causes  (PvP/M+KB)
-//notes:pandapaxxy (PvP / M+KB): "In PvP you can cause some serious flinch with a 200 RPM Explosive Payload scout rifle. Paired with an easier shot through Rapid Hit and you’ve really got a dream scout." Recommended MW - Range.
-
 // Patron of Lost Causes  (PvP/M+KB)
 //notes:pandapaxxy (PvP / M+KB): "In PvP you can cause some serious flinch with a 200 RPM Explosive Payload scout rifle. Paired with an easier shot through Rapid Hit and you’ve really got a dream scout." Recommended MW - Range.
 dimwishlist:item=2723241847&perks=1482024992,3142289711,247725512,47981717
@@ -31683,12 +30945,6 @@ dimwishlist:item=1289997971&perks=1840239774,1087426260,1168162263,1546637391
 dimwishlist:item=1289997971&perks=1482024992,1087426260,1168162263,1546637391
 dimwishlist:item=1289997971&perks=3250034553,1087426260,1168162263,1546637391
 
-// Breachlight (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "A new aggressive burst sidearm, the first one since Forsaken launched the new archetype. It hasn’t ever been a jack of all trades, but it does have some interesting rolls that put it above Smuggler’s Word. Namely Demo and MKC." Recommended MW - Range.
-
-// Breachlight (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "In Crucible I hear that this sidearm with Vorpal Weapon can two burst a Golden Gun and three burst other supers, need I say more?" Recommended MW - Range.
-
 // Breachlight (PvP / M+KB)
 //notes:pandapaxxy (PvP / M+KB): "In Crucible I hear that this sidearm with Vorpal Weapon can two burst a Golden Gun and three burst other supers, need I say more?" Recommended MW - Range.
 dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,1546637391
@@ -31715,9 +30971,6 @@ dimwishlist:item=1289997971&perks=3250034553,3142289711,1168162263,2458213969
 dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,2458213969
 dimwishlist:item=1289997971&perks=1467527085,3142289711,1168162263,2458213969
 dimwishlist:item=1289997971&perks=1467527085,1087426260,1168162263,2458213969
-
-// Gallant Charge (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "Of the new weapons I can see this one becoming a terror. [...] In PvE you can get the same Demo / Swash roll that seems to be a common theme with this season, or the new Lead from Gold perk that would pair well with any armament armor bonus." Recommended MW - Reload.
 
 // Gallant Charge (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "Of the new weapons I can see this one becoming a terror. [...] In PvE you can get the same Demo / Swash roll that seems to be a common theme with this season, or the new Lead from Gold perk that would pair well with any armament armor bonus." Recommended MW - Reload.
@@ -31797,12 +31050,6 @@ dimwishlist:item=1706206669&perks=202670084,3868766766,3300816228,4082225868
 dimwishlist:item=1706206669&perks=3250034553,3868766766,3300816228,4082225868
 dimwishlist:item=1706206669&perks=1467527085,3868766766,3300816228,4082225868
 
-// Gallant Charge (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "Of the new weapons I can see this one becoming a terror. [...] Best of luck against this fusion and hope that they miss." Recommended MW - Range.
-
-// Martyr's Retribution  (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "They are a shell of their former self since the Lunafaction / Rally Barricade change, but are still good for single target, single shot damage." Recommended MW - Reload.
-
 // Martyr's Retribution  (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "They are a shell of their former self since the Lunafaction / Rally Barricade change, but are still good for single target, single shot damage." Recommended MW - Reload.
 dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3523296417
@@ -31855,9 +31102,6 @@ dimwishlist:item=3850168899&perks=1844523823,3492396210,2869569095,2846385770
 dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,2846385770
 dimwishlist:item=3850168899&perks=1478423395,3492396210,2869569095,2846385770
 
-// Martyr's Retribution  (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "I don’t really know what more to say because Militia’s and Orewings are just upgrades for PvP." Recommended MW - Velocity.
-
 // Line in the Sand  (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "This might make the new meta." Recommended MW - Reload.
 dimwishlist:item=946443267&perks=1840239774,2680121939,247725512,1771339417
@@ -31905,12 +31149,6 @@ dimwishlist:item=946443267&perks=4090651448,1687452232,3096702027,2848615171
 dimwishlist:item=946443267&perks=1840239774,2680121939,3096702027,2848615171
 dimwishlist:item=946443267&perks=839105230,2680121939,3096702027,2848615171
 dimwishlist:item=946443267&perks=4090651448,2680121939,3096702027,2848615171
-
-// Line in the Sand  (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "This might make the new meta." Recommended MW - Reload.
-
-// Line in the Sand  (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "In PvP a faster charge time is something that I look for." Recommended MW - Charge Time.
 
 // Line in the Sand  (PvP / M+KB)
 //notes:pandapaxxy (PvP / M+KB): "In PvP a faster charge time is something that I look for." Recommended MW - Charge Time.
@@ -31966,12 +31204,6 @@ dimwishlist:item=946443267&perks=1840239774,2969185026,247725512,3300816228
 title:u/pandapaxxy's Sundial controller breakdown
 description:Originally found at https://old.reddit.com/r/sharditkeepit/comments/eazbhn/sundial_weapons_controller_breakdown/
 
-// Steelfeather Repeater (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "One of a few rapid-fire autos to get random rolls in Destiny 2. And the only one to be kinetic gives you a reason to grind this seasonal gun. In PvE it has the best damage perks and reload perk through MKC and Feeding Frenzy." Recommended MW - Range or Reload.
-
-// Steelfeather Repeater (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "One of a few rapid-fire autos to get random rolls in Destiny 2. And the only one to be kinetic gives you a reason to grind this seasonal gun. In PvE it has the best damage perks and reload perk through MKC and Feeding Frenzy." Recommended MW - Range or Reload.
-
 // Steelfeather Repeater (PvP / controller)
 //notes:pandapaxxy (PvP / controller): "In PvP it will be a bullet hose, quick to down enemies but also pretty underwhelming when it comes to optimal builds. [...] With Swashbuckler and Firmly Planted you’ll have a very easy time killing others, but I don’t think it will shake up the meta unless autos get another buff." Recommended MW - Range or Stability.
 dimwishlist:item=1251729046&perks=1392496348,1561002382,2779035018,4082225868
@@ -31987,18 +31219,6 @@ dimwishlist:item=1251729046&perks=1392496348,1885400500,2779035018,3511092054
 dimwishlist:item=1251729046&perks=1392496348,1561002382,280464955,3511092054
 dimwishlist:item=1251729046&perks=1392496348,1885400500,280464955,3511092054
 
-// Steelfeather Repeater (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP it will be a bullet hose, quick to down enemies but also pretty underwhelming when it comes to optimal builds. [...] With Swashbuckler and Firmly Planted you’ll have a very easy time killing others, but I don’t think it will shake up the meta unless autos get another buff." Recommended MW - Range or Stability.
-
-// Patron of Lost Causes (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "Not exactly ideal, but for specific builds or speed runs I can see this being a potential choice." Recommended MW - Reload.
-
-// Patron of Lost Causes (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "Not exactly ideal, but for specific builds or speed runs I can see this being a potential choice." Recommended MW - Reload.
-
-// Patron of Lost Causes (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP you can cause some serious flinch with a 200 RPM Explosive Payload scout rifle. Paired with an easier shot through Rapid Hit and you’ve really got a dream scout." Recommended MW - Range.
-
 // Patron of Lost Causes (PvP / controller)
 //notes:pandapaxxy (PvP / controller): "In PvP you can cause some serious flinch with a 200 RPM Explosive Payload scout rifle. Paired with an easier shot through Rapid Hit and you’ve really got a dream scout." Recommended MW - Range.
 dimwishlist:item=2723241847&perks=1482024992,3177308360,247725512,47981717
@@ -32010,15 +31230,6 @@ dimwishlist:item=2723241847&perks=1840239774,3177308360,247725512,3038247973
 dimwishlist:item=2723241847&perks=1482024992,3177308360,247725512,1546637391
 dimwishlist:item=2723241847&perks=3250034553,3177308360,247725512,1546637391
 dimwishlist:item=2723241847&perks=1840239774,3177308360,247725512,1546637391
-
-// Breachlight  (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "A new aggressive burst sidearm, the first one since Forsaken launched the new archetype. It hasn’t ever been a jack of all trades, but it does have some interesting rolls that put it above Smuggler’s Word. Namely Demo and MKC." Recommended MW - Reload.
-
-// Breachlight  (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "A new aggressive burst sidearm, the first one since Forsaken launched the new archetype. It hasn’t ever been a jack of all trades, but it does have some interesting rolls that put it above Smuggler’s Word. Namely Demo and MKC." Recommended MW - Reload.
-
-// Breachlight  (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In Crucible I hear that this sidearm with Vorpal Weapon can two burst a Golden Gun and three burst other supers, need I say more?" Recommended MW - Range.
 
 // Breachlight  (PvP / controller)
 //notes:pandapaxxy (PvP / controller): "In Crucible I hear that this sidearm with Vorpal Weapon can two burst a Golden Gun and three burst other supers, need I say more?" Recommended MW - Range.
@@ -32053,12 +31264,6 @@ dimwishlist:item=1289997971&perks=1482024992,3177308360,1168162263,2458213969
 dimwishlist:item=1289997971&perks=1392496348,3177308360,1168162263,2458213969
 dimwishlist:item=1289997971&perks=1392496348,1087426260,1168162263,2458213969
 
-// Gallant Charge  (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "Of the new weapons I can see this one becoming a terror. [...] In PvE you can get the same Demo / Swash roll that seems to be a common theme with this season, or the new Lead from Gold perk that would pair well with any armament armor bonus." Recommended MW - Reload.
-
-// Gallant Charge  (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "Of the new weapons I can see this one becoming a terror. [...] In PvE you can get the same Demo / Swash roll that seems to be a common theme with this season, or the new Lead from Gold perk that would pair well with any armament armor bonus." Recommended MW - Reload.
-
 // Gallant Charge  (PvP / controller)
 //notes:pandapaxxy (PvP / controller): "Of the new weapons I can see this one becoming a terror. [...] Best of luck against this fusion and hope that they miss." Recommended MW - Range or Stability.
 dimwishlist:item=1706206669&perks=1482024992,2969185026,3523296417,1890422124
@@ -32085,33 +31290,6 @@ dimwishlist:item=1706206669&perks=1482024992,2969185026,3300816228,4082225868
 dimwishlist:item=1706206669&perks=1392496348,2969185026,3300816228,4082225868
 dimwishlist:item=1706206669&perks=1482024992,3868766766,3300816228,4082225868
 dimwishlist:item=1706206669&perks=1392496348,3868766766,3300816228,4082225868
-
-// Gallant Charge  (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Of the new weapons I can see this one becoming a terror. [...] Best of luck against this fusion and hope that they miss." Recommended MW - Range or Stability.
-
-// Martyr's Retribution (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "They are a shell of their former self since the Lunafaction / Rally Barricade change, but are still good for single target, single shot damage." Recommended MW - Reload.
-
-// Martyr's Retribution (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "They are a shell of their former self since the Lunafaction / Rally Barricade change, but are still good for single target, single shot damage." Recommended MW - Reload.
-
-// Martyr's Retribution (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "I don’t really know what more to say because Militia’s and Orewings are just upgrades for PvP." Recommended MW - Velocity.
-
-// Martyr's Retribution (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "I don’t really know what more to say because Militia’s and Orewings are just upgrades for PvP." Recommended MW - Velocity.
-
-// Line in the Sand (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "This might make the new meta." Recommended MW - Reload.
-
-// Line in the Sand (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "This might make the new meta." Recommended MW - Reload.
-
-// Line in the Sand (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP a faster charge time is something that I look for." Recommended MW - Charge Time.
-
-// Line in the Sand (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP a faster charge time is something that I look for." Recommended MW - Charge Time.
 
 title:u/pandapaxxy's Season Pass / Dawning M+KB breakdown
 description:Originally found at https://old.reddit.com/r/sharditkeepit/comments/eazbrp/season_pass_dawning_mnk_breakdown/
@@ -32297,9 +31475,6 @@ dimwishlist:item=4166221755&perks=1840239774,106909392,972757866,957782887
 dimwishlist:item=4166221755&perks=1840239774,3142289711,1556840489,957782887
 dimwishlist:item=4166221755&perks=1840239774,106909392,1556840489,957782887
 
-// Pyroclastic Flow (curated / M+KB)
-//notes:pandapaxxy (curated / M+KB): "KEY: This rocket has tracking."
-
 // Pyroclastic Flow (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "KEY: This rocket has tracking. [...] In PvE a lower blast radius coupled with Cluster Bombs means the clusters spread out less, which increases your overall damage." Recommended MW: Reload.
 dimwishlist:item=1289324202&perks=3525010810,3796465595,706527188,1275731761
@@ -32349,9 +31524,6 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
-title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
-
 // Trophy Hunter (PvE DPS)
 //notes:Mercules904 (must have PvE DPS) - "Let's be frank, this weapon is designed strictly with PvE in mind, and is not really a good option in any way for PvP. [...] Highly recommend this weapon if you've been looking for something new to shake up your DPS phases. Won't compete with a Sole Survivor with Fourth Times the Charm and Firing Line in terms of pure DPS, but it's a heck of a lot easier to farm."
 dimwishlist:item=4166221755&perks=1392496348,1087426260,3400784728,1546637391
@@ -32370,9 +31542,6 @@ dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,1275731761
 
 title:u/pandapaxxy's Season Pass / Dawning controller breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eazc2q/season_pass_dawning_weapons_controller_breakdown/
-
-// Cold Front (curated)
-//notes:pandapaxxy (curated / controller): "A new 750 RPM SMG with low stability."
 
 // Cold Front (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "In PvE you can certainly use the tried and true Feeding Frenzy and Kill Clip, but I think if Vorpal Weapon or Osmosis are as good as they sound on paper it can dethrone some of our very overused combinations." Recommended MW: Reload.
@@ -32544,32 +31713,8 @@ dimwishlist:item=1506719573&perks=1482024992,3142289711,205890336,1546637391
 dimwishlist:item=1506719573&perks=1392496348,3142289711,205890336,1546637391
 dimwishlist:item=1506719573&perks=3661387068,3142289711,205890336,1546637391
 
-// Trophy Hunter (curated / controller)
-
-// Trophy Hunter (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "In PvE depending on how good Vorpal Weapon is we could have a new top DPS weapon against bosses." Recommended MW: Reload.
-
-// Trophy Hunter (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "[...] a 50 zoom puts it in line with Tatara Gaze, Elegy with the SSO-08 scope, and Aachen with Ambush. If those snipers feel fine to you then this might feel right at home." Recommended MW: Handling.
-
-// Pyroclastic Flow (curated / controller)
-//notes:pandapaxxy (curated / controller): "KEY: This rocket has tracking."
-
-// Pyroclastic Flow (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "KEY: This rocket has tracking. [...] In PvE a lower blast radius coupled with Cluster Bombs means the clusters spread out less, which increases your overall damage." Recommended MW: Reload.
-
-// Pyroclastic Flow (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP rockets aren’t in the best place anymore, but these and the Hakke frames all make a case because they can get a variety of different perks not needing to have Tracking Module as one of their trait perks." Recommended MW: Blast Radius.
-
-
-// Point of the Stag (curated / M+KB)
-//notes:pandapaxxy (curated / controller): "With hush being the hip-fire champ I firmly believe that this will be the ADS champ. If you happen to take any damage before your first shot then Eye of the Storm will magnetize your next shot to their head and you’ll get Archer’s Tempo to make your next shot just that much faster." Recommended MW: Draw Time.
-
 title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
-
-// Infinite Paths 8 (PvP)
-//notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
 
 // Infinite Paths 8 (PvP)
 //notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
@@ -32609,21 +31754,12 @@ dimwishlist:item=3233390913&perks=839105230,1087426260,3300816228,2848615171
 dimwishlist:item=3233390913&perks=3661387068,3230963543,3300816228,2848615171
 dimwishlist:item=3233390913&perks=839105230,3230963543,3300816228,2848615171
 
-// Infinite Paths 8 (PvE)
-//notes:Mercules904 notes (not great PvE): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
-
 // Jack Queen King 3 (PvP)
 //notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
 dimwishlist:item=410996590&perks=1926090093,1885400500,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090093,1885400500,1820235745,4082225868
 dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,4082225868
-
-// Jack Queen King 3 (PvP)
-//notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
-
-// Jack Queen King 3 (PvE)
-//notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
 
 // Jack Queen King 3 (PvE)
 //notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
@@ -32662,9 +31798,6 @@ dimwishlist:item=410996590&perks=1926090095,1087426260,3523296417,2848615171
 
 // Traveler's Judgment 5 (PvP)
 //notes:Mercules904 notes (must have PvP): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
-
-// Traveler's Judgment 5 (PvP)
-//notes:Mercules904 notes (must have PvP): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
 dimwishlist:item=4149758318&perks=445755706,1885400500,2779035018,1890422124
 dimwishlist:item=4149758318&perks=445755707,1885400500,2779035018,1890422124
 dimwishlist:item=4149758318&perks=445755706,1885400500,280464955,1890422124
@@ -32699,12 +31832,6 @@ dimwishlist:item=4149758318&perks=445755707,1561002382,3300816228,3708227201
 dimwishlist:item=4149758318&perks=445755705,1561002382,3300816228,3708227201
 dimwishlist:item=4149758318&perks=445755704,1561002382,3300816228,3708227201
 
-// Traveler's Judgment 5 (PvE)
-//notes:Mercules904 notes (must have PvE): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
-
-// Perfect Paradox (PvP)
-//notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
 // Perfect Paradox (PvP)
 //notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,47981717
@@ -32723,12 +31850,6 @@ dimwishlist:item=3393519051&perks=4090651448,1087426260,2869569095,2360754333
 dimwishlist:item=3393519051&perks=1300023272,1087426260,3523296417,2360754333
 dimwishlist:item=3393519051&perks=1482024992,1087426260,3523296417,2360754333
 dimwishlist:item=3393519051&perks=4090651448,1087426260,3523296417,2360754333
-
-// Perfect Paradox (PvE DPS)
-//notes:Mercules904 notes (must have PvE DPS): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvE add clear)
-//notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 
 // Perfect Paradox (PvE add clear)
 //notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
@@ -33090,12 +32211,6 @@ dimwishlist:item=1807343361&perks=1332244541,3142289711,1631667848,2679249093
 dimwishlist:item=1807343361&perks=1047830412,791862061,1631667848,2679249093
 dimwishlist:item=1807343361&perks=1332244541,791862061,1631667848,2679249093
 
-// Perfect Paradox (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "It is the only shotgun with both Demolitionist and a damage boosting perk. For PvE alone I will be grinding out this gun." Recommended MW: Reload.
-
-// Perfect Paradox (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "For PvP I cannot see this becoming the next meta-breaker." Recommended MW: Range.
-
 // Uriel's Gift (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): " For PvE there aren’t amazing perks you should look out for that the Braytech Winterwolf or Breakneck don’t already do." Recommended MW: Reload.
 dimwishlist:item=3863882743&perks=1628165636,1561002382,2869569095,1015611457
@@ -33336,10 +32451,6 @@ dimwishlist:item=410996590&perks=1926090094,1968497646,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090092,1968497646,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090093,1968497646,1820235745,3425386926
 
-
-// Jack Queen King 3 (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "In PvE it can have some really interesting rolls, but the lack of Outlaw or Feeding Frenzy will mean a lot of players won’t gravitate towards it." Recommended MW: Reload.
-
 // Jack Queen King 3 (PvP / M+KB)
 //notes:pandapaxxy (PvP / M+KB): "Having better base stats than a Waking Vigil almost across the board will mean god rolls of this gun will see much more play. Unfortunately Waking Vigil will take the cake for best trait perks of Opening Shot and Slideshot." Recommended MW: Range.
 dimwishlist:item=410996590&perks=1926090091,1561002382,3523296417,4082225868
@@ -33364,12 +32475,6 @@ dimwishlist:item=410996590&perks=1926090093,1561002382,4071163871,957782887
 dimwishlist:item=410996590&perks=1926090091,1885400500,4071163871,957782887
 dimwishlist:item=410996590&perks=1926090090,1885400500,4071163871,957782887
 dimwishlist:item=410996590&perks=1926090093,1885400500,4071163871,957782887
-
-// Jack Queen King 3 (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): "Having better base stats than a Waking Vigil almost across the board will mean god rolls of this gun will see much more play. Unfortunately Waking Vigil will take the cake for best trait perks of Opening Shot and Slideshot." Recommended MW: Range.
-
-// Infinite Paths 8 (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "Infinite Paths 8 is the ONLY randomly rolled energy, lightweight pulse rifle in the game. And only one of three energy lightweight pulses in the game (one of which is the year 1 CoO version). This is a very exclusive class of pulse rifle, and with the seasonal artifact geared towards pulses I can see this getting some light in lower end PvE activities." Recommended MW: Handling or Reload.
 
 // Infinite Paths 8 (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "Infinite Paths 8 is the ONLY randomly rolled energy, lightweight pulse rifle in the game. And only one of three energy lightweight pulses in the game (one of which is the year 1 CoO version). This is a very exclusive class of pulse rifle, and with the seasonal artifact geared towards pulses I can see this getting some light in lower end PvE activities." Recommended MW: Handling or Reload.
@@ -33434,9 +32539,6 @@ dimwishlist:item=3233390913&perks=1482024992,3142289711,3523296417,2387244414
 dimwishlist:item=3233390913&perks=1467527085,3142289711,588594999,2387244414
 dimwishlist:item=3233390913&perks=3661387068,3142289711,588594999,2387244414
 dimwishlist:item=3233390913&perks=1482024992,3142289711,588594999,2387244414
-
-// Infinite Paths 8 (PvP / M+KB)
-//notes:pandapaxxy (PvP / M+KB): " I don’t see this taking Outlast or Horror’s Least out of anyone’s hands, but variety is the spice of life." Recommended MW: Range.
 
 // Last Hope (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "In PvE sidearms are laughably bad." Recommended MW: Reload.
@@ -33551,9 +32653,6 @@ dimwishlist:item=3622137132&perks=445755704,1561002382,2779035018,2387244414
 dimwishlist:item=3622137132&perks=445755710,1885400500,2779035018,2387244414
 dimwishlist:item=3622137132&perks=445755711,1885400500,2779035018,2387244414
 dimwishlist:item=3622137132&perks=445755704,1885400500,2779035018,2387244414
-
-// Traveler's Judgment 5 (PvE / M+KB)
-//notes:pandapaxxy (PvE / M+KB): "A sidearm I would actually use, is this one, for one reason; Rapid Hit." Recommended MW: Reload.
 
 // Traveler's Judgment 5 (PvE / M+KB)
 //notes:pandapaxxy (PvE / M+KB): "A sidearm I would actually use, is this one, for one reason; Rapid Hit." Recommended MW: Reload.
@@ -33818,15 +32917,6 @@ dimwishlist:item=3569802112&perks=1926090091,3177308360,3523296417,957782887
 dimwishlist:item=3569802112&perks=1926090090,3177308360,3523296417,957782887
 dimwishlist:item=3569802112&perks=1926090093,3177308360,3523296417,957782887
 
-// Hawthorne's Field-Forged Shotgun (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "In any PvE situation you can make do with quite a lot, but mag increasing perks and handling perks are very helpful." Recommended MW: Reload.
-
-// Hawthorne's Field-Forged Shotgun (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP if you want to use a Lightweight shotgun you’re going for one of two different builds, a decent OHK distance (won’t beat a precision frame or aggressive frame), or a great two tap shotgun." Recommended MW: Range.
-
-// Perfect Paradox (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "It is the only shotgun with both Demolitionist and a damage boosting perk. For PvE alone I will be grinding out this gun." Recommended MW: Reload.
-
 // Perfect Paradox (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "It is the only shotgun with both Demolitionist and a damage boosting perk. For PvE alone I will be grinding out this gun." Recommended MW: Reload.
 dimwishlist:item=3393519051&perks=1300023272,106909392,3523296417,2679249093
@@ -33907,12 +32997,6 @@ dimwishlist:item=3393519051&perks=1332244541,3142289711,3523296417,2679249093
 dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,2679249093
 dimwishlist:item=3393519051&perks=1332244541,3142289711,3161816588,2679249093
 
-// Perfect Paradox (PvP / controller)
-//notes:pandapaxxy (PvP / controller):  "For PvP I cannot see this becoming the next meta-breaker." Recommended MW: Range.
-
-// Uriel's Gift (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "For PvE there aren’t amazing perks you should look out for that the Braytech Winterwolf or Breakneck don’t already do." Recommended MW: Reload.
-
 // Uriel's Gift (PvP / controller)
 //notes:pandapaxxy (PvP / controller): "In PvP these classes of auto rifles are very, very bad." Recommended MW: Range or Stability.
 dimwishlist:item=3863882743&perks=1628165636,3230963543,280464955,1890422124
@@ -33921,12 +33005,6 @@ dimwishlist:item=3863882743&perks=1628165636,3230963543,280464955,588594999
 dimwishlist:item=3863882743&perks=1628165636,3230963543,706527188,588594999
 dimwishlist:item=3863882743&perks=1628165636,3230963543,280464955,1015611457
 dimwishlist:item=3863882743&perks=1628165636,3230963543,706527188,1015611457
-
-// Elatha FR4 (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "So I heard you liked Erentil? Because the Elatha is like a worse younger brother." Recommended MW: Reload.
-
-// Elatha FR4 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Where I think this gun will shine is PvP. If the gunsmith hasn’t been kind to you, or you never got to do Menagerie before it was patched then this could definitely make up for lost time." Recommended MW: Range or Stability.
 
 // Jack Queen King 3 (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "In PvE it can have some really interesting rolls, but the lack of Outlaw or Feeding Frenzy will mean a lot of players won’t gravitate towards it." Recommended MW: Reload.
@@ -33970,18 +33048,6 @@ dimwishlist:item=410996590&perks=1926090095,1885400500,1820235745,3708227201
 dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,3708227201
 dimwishlist:item=410996590&perks=1926090094,3230963543,1820235745,3708227201
 dimwishlist:item=410996590&perks=1926090092,3230963543,1820235745,3708227201
-
-// Jack Queen King 3 (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "In PvE it can have some really interesting rolls, but the lack of Outlaw or Feeding Frenzy will mean a lot of players won’t gravitate towards it." Recommended MW: Reload.
-
-// Jack Queen King 3 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Having better base stats than a Waking Vigil almost across the board will mean god rolls of this gun will see much more play. Unfortunately Waking Vigil will take the cake for best trait perks of Opening Shot and Slideshot." Recommended MW: Range or Stability.
-
-// Jack Queen King 3 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Having better base stats than a Waking Vigil almost across the board will mean god rolls of this gun will see much more play. Unfortunately Waking Vigil will take the cake for best trait perks of Opening Shot and Slideshot." Recommended MW: Range or Stability.
-
-// Infinite Paths 8 (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "It has somewhat better stats than the nightshade pulse (lower in stability and range). But the sights kill it for me." Recommended MW: Reload.
 
 // Infinite Paths 8 (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "It has somewhat better stats than the nightshade pulse (lower in stability and range). But the sights kill it for me." Recommended MW: Reload.
@@ -34041,9 +33107,6 @@ dimwishlist:item=3233390913&perks=4090651448,3142289711,588594999,4082225868
 dimwishlist:item=3233390913&perks=839105230,106909392,588594999,4082225868
 dimwishlist:item=3233390913&perks=4090651448,106909392,588594999,4082225868
 dimwishlist:item=3233390913&perks=1482024992,106909392,588594999,4082225868
-
-// Infinite Paths 8 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Steady Rounds, Moving Target, and Eye of the Storm or Zen Moment will be an insanely sticky and reliable pulse. I want to try and get that roll just to see what near 100% stability just feels like." Recommended MW: Stability.
 
 // Last Hope (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "I cannot really recommend this sidearm in PvE, it’s just there’s better options." Recommended MW: Reload.
@@ -34122,9 +33185,6 @@ dimwishlist:item=3622137132&perks=445755710,3230963543,2846385770,2458213969
 
 // Traveler's Judgment 5 (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "There really isn’t anything Traveler’s Judgement 5 does better than say Last Dance or Last Hope, but the fact that it has Rapid Hit makes it unique compared to the others. Paired with Disruption Break or Dragonfly can mean a really solid and fun gun for low end PvE." Recommended MW: Reload or Handling.
-
-// Traveler's Judgment 5 (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "There really isn’t anything Traveler’s Judgement 5 does better than say Last Dance or Last Hope, but the fact that it has Rapid Hit makes it unique compared to the others. Paired with Disruption Break or Dragonfly can mean a really solid and fun gun for low end PvE." Recommended MW: Reload or Handling.
 dimwishlist:item=4149758318&perks=445755707,1968497646,247725512,1683379515
 dimwishlist:item=4149758318&perks=445755706,1968497646,247725512,1683379515
 dimwishlist:item=4149758318&perks=445755705,1968497646,247725512,1683379515
@@ -34182,17 +33242,6 @@ dimwishlist:item=4149758318&perks=445755710,3230963543,2779035018,460017080
 dimwishlist:item=4149758318&perks=445755704,3230963543,280464955,460017080
 dimwishlist:item=4149758318&perks=445755711,3230963543,280464955,460017080
 dimwishlist:item=4149758318&perks=445755710,3230963543,280464955,460017080
-
-// Traveler's Judgment 5 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "In PvP Rapid Hit will also be the only reason this gun is used." Recommended MW: Range or Stability.
-
-// Mos Epoch III (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "In PvE there isn’t too much that stands out on this rocket except being the only rocket with Disruption Break." Recommended MW: Reload or Velocity.
-
-// Mos Epoch III (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "The issue is it fights against Truth, Wardcliff, Deathbringer, and any rocket you might already have." Recommended MW: Blast Radius.
-
-
 
 title:u/Mercules904's Garden of Salvation raid weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
