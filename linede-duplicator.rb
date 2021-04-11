@@ -5,8 +5,8 @@
 #dimwishlist:
 
 rollWritten = Array.new
-puts "Read CC-curated"
-File.readlines('CC-curated').each do |line|
+puts "Read CC-curated.txt"
+File.readlines('CC-curated.txt').each do |line|
   if line.match('^dimwishlist:')
     # Check that the line has not currently been written
     if not rollWritten.include?(line)
