@@ -1,4 +1,5 @@
 Read CC-curated.txt
+Read CC-curated.txt
 Read CC-curated
 title:Closed Circle Curated D2 good rolls
 description:Created with the help of the members of Closed Circle and maintained by oyviaase, based on the existing wishlist from DIM copied 10.04.2021
@@ -11324,7 +11325,6 @@ dimwishlist:item=569799273&perks=3666208348,2349202967,2590710093,3913600130
 
 
 //waking vigil (curated)
-dimwishlist:item=334171687&perks=1926090093,1885400500,957782887,1168162263
 
 //tigerspite
 dimwishlist:item=640114618&perks=3661387068,1885400500,1359896290,1015611457
