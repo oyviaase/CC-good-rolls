@@ -136,7 +136,11 @@ dimwishlist:item=2821430069&perks=791862061,3523296417,3592538738
 //notes: Cry PvE wanna get high range
 dimwishlist:item=2342054803&perks=1482024992,1431678320,3523296417,2209918983
 
-// Perses-d
+//Palmyra-B
+//notes: Cry pve endgame vs tanks
+dimwishlist:item=3489657138&perks=3798852852,3796465595,3528046508,3927722942
+
+// Perses-D
 //notes: Cry pve
 dimwishlist:item=1019000888&perks=1392496348,3142289711,3700496672,124408337
 
