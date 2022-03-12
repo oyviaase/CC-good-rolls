@@ -117,6 +117,45 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,2450788523,3326204863
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2450788523,862848869
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2450788523,3917450714
 
+// WQ Cry rolls
+//dimwishlist:item=&perks=
+
+// Cantana-57
+//notes: cry PvP pali but not pali
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,2846385770
+
+// Explosive personality
+//notes: Cry pve cuz yes
+dimwishlist:item=4096943616&perks=1441682018,2822142346,3300816228,2209918983
+
+// Fortissimo-11
+//notes: Cry pve no reload masterwork, hopefully
+dimwishlist:item=2821430069&perks=791862061,3523296417,3592538738
+
+// Ogma PR6
+//notes: Cry PvE wanna get high range
+dimwishlist:item=2342054803&perks=1482024992,1431678320,3523296417,2209918983
+
+// Perses-d
+//notes: Cry pve
+dimwishlist:item=1019000888&perks=1392496348,3142289711,3700496672,124408337
+
+// Ragnhild-D
+//notes: Cry PvP if arc , elemtal is enought , if not arc steady hands is needed
+dimwishlist:item=1047830412&perks=1047830412,3142289711,509074078,711234314
+
+// Red herring
+//notes: Cry pve best dps RL ingame
+dimwishlist:item=3175851496&perks=3798852852,3796465595,2308090567,1167468626
+
+// Snorry FR5
+//notes: Cry PvP sniper but no sniper
+dimwishlist:item=4114929480&perks=3250034553,2969185026,1570042021,2213355989
+
+// Typhon
+//notes: Cry PvE any barrel
+dimwishlist:item=3568377122&perks=3301904089,3523296417,3194351027
+
 // Season of the Lost S15 Cantio roll
 //Canis Major
 //notes: C9Rekkles' Rolls DIMified by Cantio
